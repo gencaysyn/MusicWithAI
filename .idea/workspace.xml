@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffb63ce1-5018-43a3-b4b2-59fdd11fc6a9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/NoteToTxtConverster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TxtToNoteConverster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_err.txt" beforeDir="false" afterPath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_err.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K19d Piano Sonata Duet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K279 Piano sonata n01 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K279 Piano sonata n01 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K279 Piano sonata n01 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K280 Piano sonata n02 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K280 Piano sonata n02 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K280 Piano sonata n02 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K281 Piano Sonata n03 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K281 Piano Sonata n03 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K281 Piano Sonata n03 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K282 Piano Sonata n04 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K284 Piano Sonata n06 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K309 Piano Sonata n10 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K309 Piano Sonata n10 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K309 Piano Sonata n10 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K330 Piano Sonata n10 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K330 Piano Sonata n10 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K330 Piano Sonata n10 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K331 Piano Sonata n11 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K331 Piano sonata n11 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K332 Piano Sonata n12 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K332 Piano Sonata n12 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K332 Piano Sonata n12 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K333 Piano Sonata n13 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K333 Piano Sonata n13 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K333 Piano Sonata n13 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K333 Piano Sonata n13 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K357 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K358 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K381 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K457 Piano Sonata n14 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K497 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K521 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K545 Piano Sonata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K570 Piano Sonata 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K570 Piano Sonata 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K570 Piano Sonata 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_inputs/raw_K576 Piano Sonata n19 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K19d Piano Sonata Duet.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K279 Piano sonata n01 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K279 Piano sonata n01 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K279 Piano sonata n01 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K280 Piano sonata n02 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K280 Piano sonata n02 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K280 Piano sonata n02 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K281 Piano Sonata n03 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K281 Piano Sonata n03 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K281 Piano Sonata n03 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K282 Piano Sonata n04 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K284 Piano Sonata n06 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K309 Piano Sonata n10 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K309 Piano Sonata n10 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K309 Piano Sonata n10 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K330 Piano Sonata n10 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K330 Piano Sonata n10 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K330 Piano Sonata n10 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K331 Piano Sonata n11 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K331 Piano sonata n11 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K332 Piano Sonata n12 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K332 Piano Sonata n12 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K332 Piano Sonata n12 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K333 Piano Sonata n13 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K333 Piano Sonata n13 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K333 Piano Sonata n13 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K333 Piano Sonata n13 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K357 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K358 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K381 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K457 Piano Sonata n14 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K497 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K521 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K545 Piano Sonata.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K570 Piano Sonata 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K570 Piano Sonata 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K570 Piano Sonata 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/CsvToMidi_outputs/final_raw_K576 Piano Sonata n19 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_err.txt" beforeDir="false" afterPath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_err.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K19d Piano Sonata Duet.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K279 Piano sonata n01 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K279 Piano sonata n01 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K279 Piano sonata n01 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K280 Piano sonata n02 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K280 Piano sonata n02 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K280 Piano sonata n02 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K281 Piano Sonata n03 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K281 Piano Sonata n03 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K281 Piano Sonata n03 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K282 Piano Sonata n04 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K284 Piano Sonata n06 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K309 Piano Sonata n10 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K309 Piano Sonata n10 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K309 Piano Sonata n10 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K330 Piano Sonata n10 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K330 Piano Sonata n10 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K330 Piano Sonata n10 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K331 Piano Sonata n11 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K331 Piano sonata n11 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K332 Piano Sonata n12 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K332 Piano Sonata n12 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K332 Piano Sonata n12 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K333 Piano Sonata n13 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K333 Piano Sonata n13 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K333 Piano Sonata n13 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K333 Piano Sonata n13 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K357 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K358 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K381 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K457 Piano Sonata n14 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K497 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K521 Piano Sonata 4 Hands.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K545 Piano Sonata.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K570 Piano Sonata 1mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K570 Piano Sonata 2mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K570 Piano Sonata 3mov.mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_inputs/K576 Piano Sonata n19 .mid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K19d Piano Sonata Duet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K279 Piano sonata n01 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K279 Piano sonata n01 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K279 Piano sonata n01 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K280 Piano sonata n02 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K280 Piano sonata n02 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K280 Piano sonata n02 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K281 Piano Sonata n03 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K281 Piano Sonata n03 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K281 Piano Sonata n03 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K282 Piano Sonata n04 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K284 Piano Sonata n06 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K309 Piano Sonata n10 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K309 Piano Sonata n10 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K309 Piano Sonata n10 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K330 Piano Sonata n10 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K330 Piano Sonata n10 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K330 Piano Sonata n10 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K331 Piano Sonata n11 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K331 Piano sonata n11 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K332 Piano Sonata n12 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K332 Piano Sonata n12 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K332 Piano Sonata n12 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K333 Piano Sonata n13 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K333 Piano Sonata n13 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K333 Piano Sonata n13 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K333 Piano Sonata n13 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K357 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K358 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K381 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K457 Piano Sonata n14 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K497 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K521 Piano Sonata 4 Hands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K545 Piano Sonata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K570 Piano Sonata 1mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K570 Piano Sonata 2mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K570 Piano Sonata 3mov.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/midicsv-1.1/MidiToCsv_outputs/raw_K576 Piano Sonata n19 .txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_inputs/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_inputs/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/txt_outputs/fil_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/txt_outputs/fil_out.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-415801443">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="696" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="696" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NoteToTxtConverter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midicsv-1.1/CmConverter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/midicsv-1.1/McConverter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TxtToNoteConverter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NoteToTxtConverter.py" />
+        <option value="$PROJECT_DIR$/TxtToNoteConverter.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MusicWithAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicWithAI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TxtToNoteConverter">
+    <configuration name="CmConverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MusicWithAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midicsv-1.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/midicsv-1.1/CmConverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="McConverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MusicWithAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/midicsv-1.1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/midicsv-1.1/McConverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NoteToTxtConverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MusicWithAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NoteToTxtConverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TxtToNoteConverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MusicWithAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TxtToNoteConverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.NoteToTxtConverter" />
+      <item itemvalue="Python.TxtToNoteConverter" />
+      <item itemvalue="Python.McConverter" />
+      <item itemvalue="Python.CmConverter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TxtToNoteConverter" />
+        <item itemvalue="Python.CmConverter" />
+        <item itemvalue="Python.NoteToTxtConverter" />
+        <item itemvalue="Python.McConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb63ce1-5018-43a3-b4b2-59fdd11fc6a9" name="Default Changelist" comment="" />
+      <created>1552822027664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552822027664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/midicsv-1.1/McConverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/midicsv-1.1/CmConverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NoteToTxtConverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TxtToNoteConverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
