@@ -1,3 +1,5 @@
+import os
+
 def txt_filter(file_name):
     counter = 0
     with open("txt_inputs\\" + file_name, "r") as f:
@@ -25,8 +27,11 @@ def txt_filter(file_name):
             i = i + 1
     result = result[1:-1]
     print(result)
-    with open("txt_outputs\\fil_" + file_name, "w") as of:
+    with open("txt_outputs\\Fil_" + file_name, "w") as of:
         of.write(result)
 
 
-txt_filter("out.txt")
+txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+
+for file_names in txt_files:
+    txt_filter(file_names)
