@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/misc.xml
+.idea/MusicWithAI.iml
+.idea/misc.xml
+.idea/MusicWithAI.iml
