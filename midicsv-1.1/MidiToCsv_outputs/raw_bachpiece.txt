@@ -1,0 +1,94 @@
+0, 0, Header, 1, 4, 480
+1, 0, Start_track
+1, 0, Tempo, 500000
+1, 0, Note_on_c, 0, 72, 127
+1, 480, Note_on_c, 0, 72, 127
+1, 480, Note_off_c, 0, 72, 90
+1, 960, Note_on_c, 0, 79, 127
+1, 960, Note_off_c, 0, 72, 90
+1, 1440, Note_on_c, 0, 79, 127
+1, 1440, Note_off_c, 0, 79, 90
+1, 1920, Note_on_c, 0, 81, 127
+1, 1920, Note_off_c, 0, 79, 90
+1, 2400, Note_on_c, 0, 72, 127
+1, 2400, Note_off_c, 0, 81, 90
+1, 2880, Note_on_c, 0, 72, 127
+1, 2880, Note_off_c, 0, 72, 90
+1, 3840, Note_on_c, 0, 77, 127
+1, 3840, Note_off_c, 0, 72, 90
+1, 4320, Note_on_c, 0, 72, 127
+1, 4320, Note_off_c, 0, 77, 90
+1, 4800, Note_on_c, 0, 76, 127
+1, 4800, Note_off_c, 0, 72, 90
+1, 5280, Note_on_c, 0, 72, 127
+1, 5280, Note_off_c, 0, 76, 90
+1, 5760, Note_on_c, 0, 74, 127
+1, 5760, Note_off_c, 0, 72, 90
+1, 6240, Note_on_c, 0, 72, 127
+1, 6240, Note_off_c, 0, 74, 90
+1, 6720, Note_on_c, 0, 60, 127
+1, 6720, Note_off_c, 0, 72, 90
+1, 7680, Note_off_c, 0, 60, 90
+1, 7680, End_track
+2, 0, Start_track
+2, 0, Tempo, 500000
+2, 0, Note_on_c, 0, 69, 127
+2, 1440, Note_on_c, 0, 70, 127
+2, 1440, Note_off_c, 0, 69, 90
+2, 1920, Note_on_c, 0, 69, 127
+2, 1920, Note_off_c, 0, 70, 90
+2, 3840, Note_on_c, 0, 69, 127
+2, 3840, Note_off_c, 0, 69, 90
+2, 4320, Note_on_c, 0, 71, 127
+2, 4320, Note_off_c, 0, 69, 90
+2, 4800, Note_on_c, 0, 72, 127
+2, 4800, Note_off_c, 0, 71, 90
+2, 5760, Note_on_c, 0, 71, 127
+2, 5760, Note_off_c, 0, 72, 90
+2, 6720, Note_on_c, 0, 67, 127
+2, 6720, Note_off_c, 0, 71, 90
+2, 7680, Note_off_c, 0, 67, 90
+2, 7680, End_track
+3, 0, Start_track
+3, 0, Tempo, 500000
+3, 0, Note_on_c, 0, 64, 127
+3, 1440, Note_on_c, 0, 62, 127
+3, 1440, Note_off_c, 0, 64, 90
+3, 1680, Note_on_c, 0, 61, 127
+3, 1680, Note_off_c, 0, 62, 90
+3, 1920, Note_on_c, 0, 62, 127
+3, 1920, Note_off_c, 0, 61, 90
+3, 2880, Note_on_c, 0, 64, 127
+3, 2880, Note_off_c, 0, 62, 90
+3, 3840, Note_on_c, 0, 65, 127
+3, 3840, Note_off_c, 0, 64, 90
+3, 4800, Note_on_c, 0, 67, 127
+3, 4800, Note_off_c, 0, 65, 90
+3, 6240, Note_on_c, 0, 65, 127
+3, 6240, Note_off_c, 0, 67, 90
+3, 6720, Note_on_c, 0, 64, 127
+3, 6720, Note_off_c, 0, 65, 90
+3, 7680, Note_off_c, 0, 64, 90
+3, 7680, End_track
+4, 0, Start_track
+4, 0, Tempo, 500000
+4, 0, Note_on_c, 0, 57, 127
+4, 960, Note_on_c, 0, 52, 127
+4, 960, Note_off_c, 0, 57, 90
+4, 1920, Note_on_c, 0, 53, 127
+4, 1920, Note_off_c, 0, 52, 90
+4, 2880, Note_on_c, 0, 48, 127
+4, 2880, Note_off_c, 0, 53, 90
+4, 3840, Note_on_c, 0, 50, 127
+4, 3840, Note_off_c, 0, 48, 90
+4, 4800, Note_on_c, 0, 52, 127
+4, 4800, Note_off_c, 0, 50, 90
+4, 5280, Note_on_c, 0, 53, 127
+4, 5280, Note_off_c, 0, 52, 90
+4, 5760, Note_on_c, 0, 55, 127
+4, 5760, Note_off_c, 0, 53, 90
+4, 6720, Note_on_c, 0, 48, 127
+4, 6720, Note_off_c, 0, 55, 90
+4, 7680, Note_off_c, 0, 48, 90
+4, 7680, End_track
+0, 0, End_of_file
