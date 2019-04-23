@@ -1,6 +1,9 @@
+import os
+import subprocess
+
 def max_val(channels):
     maxval = 0
-    for i in range(0, len(channels)):
+    for i in range(len(channels)):
         if maxval < int(channels[i][-1][1]):
             maxval = int(channels[i][-1][1]) + 1
     return maxval
@@ -39,13 +42,14 @@ def txt_filter(file_name):
 
         i = 0
         out = ""
-        while result[i].find(" ") != -1:
-            i = i + 1
-        result = result[i:len(result)]
-        for i in range(0, len(result)):
-            out += result[i]
-    with open("txt_outputs\\Fil_" + file_name, "w") as of:
+        for i in range(len(result)):
+            out += result[i]+" "
+    with open("txt_outputs\\note_" + file_name, "w") as of:
         of.write(out)
     print(result)
 
-txt_filter("raw_Bwv1051 Brandenburg Concert n6 3mov.txt")
+
+txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+
+for file in txt_files:
+    txt_filter(file)

@@ -10,7 +10,7 @@ errfd = open("MidiToCsv_err.txt", "w+")
 midi_files = os.listdir(os.getcwd()+"\MidiToCsv_inputs")
 
 for file_names in midi_files:
-    outfd = open("MidiToCsv_outputs\\raw_" + file_names.replace(".mid",".txt"), "w+")
+    outfd = open("MidiToCsv_outputs\\csv_" + file_names.replace(".mid",".txt"), "w+")
     subprocess.call(["midicsv", "-v", "MidiToCsv_inputs\\"+file_names], stdout=outfd, stderr=errfd)
 
 errfd = open("CsvToMidi_err.txt", "r")
