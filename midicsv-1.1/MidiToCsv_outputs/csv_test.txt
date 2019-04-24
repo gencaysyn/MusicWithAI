@@ -1,0 +1,76 @@
+0, 0, Header, 1, 2, 512
+1, 0, Start_track
+1, 0, Title_t, "test"
+1, 0, Tempo, 500000
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, End_track
+2, 0, Start_track
+2, 0, Title_t, "Piano"
+2, 0, Note_on_c, 0, 48, 100
+2, 512, Note_off_c, 0, 48, 64
+2, 512, Note_on_c, 0, 52, 100
+2, 512, Note_on_c, 0, 55, 100
+2, 1024, Note_off_c, 0, 52, 64
+2, 1024, Note_off_c, 0, 55, 64
+2, 1024, Note_on_c, 0, 48, 100
+2, 1024, Note_on_c, 0, 52, 100
+2, 1536, Note_off_c, 0, 48, 64
+2, 1536, Note_off_c, 0, 52, 64
+2, 1536, Note_on_c, 0, 53, 100
+2, 1536, Note_on_c, 0, 59, 100
+2, 2048, Note_off_c, 0, 53, 64
+2, 2048, Note_off_c, 0, 59, 64
+2, 2048, Note_on_c, 0, 48, 100
+2, 2048, Note_on_c, 0, 64, 100
+2, 2560, Note_off_c, 0, 48, 64
+2, 2560, Note_off_c, 0, 64, 64
+2, 2560, Note_on_c, 0, 51, 100
+2, 2624, Note_off_c, 0, 51, 64
+2, 2624, Note_on_c, 0, 52, 100
+2, 2688, Note_off_c, 0, 52, 64
+2, 2688, Note_on_c, 0, 53, 100
+2, 2752, Note_off_c, 0, 53, 64
+2, 2752, Note_on_c, 0, 54, 100
+2, 2816, Note_off_c, 0, 54, 64
+2, 2816, Note_on_c, 0, 55, 100
+2, 2880, Note_off_c, 0, 55, 64
+2, 2880, Note_on_c, 0, 56, 100
+2, 2944, Note_off_c, 0, 56, 64
+2, 2944, Note_on_c, 0, 57, 100
+2, 3008, Note_off_c, 0, 57, 64
+2, 3008, Note_on_c, 0, 58, 100
+2, 3072, Note_off_c, 0, 58, 64
+2, 3072, Note_on_c, 0, 53, 100
+2, 3072, Note_on_c, 0, 51, 100
+2, 3136, Note_off_c, 0, 53, 64
+2, 3136, Note_off_c, 0, 51, 64
+2, 3136, Note_on_c, 0, 54, 100
+2, 3136, Note_on_c, 0, 52, 100
+2, 3200, Note_off_c, 0, 54, 64
+2, 3200, Note_off_c, 0, 52, 64
+2, 3200, Note_on_c, 0, 55, 100
+2, 3200, Note_on_c, 0, 53, 100
+2, 3264, Note_off_c, 0, 55, 64
+2, 3264, Note_off_c, 0, 53, 64
+2, 3264, Note_on_c, 0, 56, 100
+2, 3264, Note_on_c, 0, 54, 100
+2, 3328, Note_off_c, 0, 56, 64
+2, 3328, Note_off_c, 0, 54, 64
+2, 3328, Note_on_c, 0, 57, 100
+2, 3328, Note_on_c, 0, 55, 100
+2, 3392, Note_off_c, 0, 57, 64
+2, 3392, Note_off_c, 0, 55, 64
+2, 3392, Note_on_c, 0, 58, 100
+2, 3392, Note_on_c, 0, 56, 100
+2, 3456, Note_off_c, 0, 58, 64
+2, 3456, Note_off_c, 0, 56, 64
+2, 3456, Note_on_c, 0, 59, 100
+2, 3456, Note_on_c, 0, 57, 100
+2, 3520, Note_off_c, 0, 59, 64
+2, 3520, Note_off_c, 0, 57, 64
+2, 3520, Note_on_c, 0, 60, 100
+2, 3520, Note_on_c, 0, 58, 100
+2, 3584, Note_off_c, 0, 60, 64
+2, 3584, Note_off_c, 0, 58, 64
+2, 3584, End_track
+0, 0, End_of_file

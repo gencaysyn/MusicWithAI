@@ -24,18 +24,20 @@ def txt_filter(file_name):
                     if data[i].find("Note") != -1:
                         params = data[i].split(", ")
                         params[5] = params[5][0:-1]
-                        params[1] = str(round(int(params[1]) / resolution))
+                        params[1] = str(round(int(params[1]) / resolution))  # time
                         tracks.append(params)
                     i = i + 1
                 channels.append(tracks)
             i = i + 1
         max_time = max_val(channels)
         result = []
-        for i in range(0, max_time):
+        for i in range(max_time):
             result.append(" ")
-        for i in range(0, len(channels)):
-            for j in range(0, len(channels[i])):
+
+        for i in range(len(channels)):
+            for j in range(len(channels[i])):
                 params = channels[i][j]
+                print(params)
                 if result[int(params[1])].find(chr(int(params[4]))) == -1:
                     result[int(params[1])] = result[int(params[1])].strip()
                     result[int(params[1])] += chr(int(params[4]))
