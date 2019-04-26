@@ -1,6 +1,7 @@
 import os
 import subprocess
 
+
 def max_val(channels):
     maxval = 0
     for i in range(len(channels)):
@@ -40,11 +41,10 @@ def txt_filter(file_name):
 
         out = ""
         for i in range(len(result)):
-            out += result[i]+" "
+            out += result[i] + " "
         print(out)
     with open("txt_outputs\\note_" + file_name, "w") as of:
         of.write(out)
-
 
 
 txt_files = os.listdir(os.getcwd() + "/txt_inputs")
