@@ -15,7 +15,6 @@ def txt_filter(file_name):
     with open("txt_inputs\\" + file_name, "r") as f:
         data = f.readlines()
         i = 0
-        j = 0
         resolution = round(int(data[i].split(", ")[5]) / 8)
         tracks = []
         while i < len(data):
@@ -32,10 +31,10 @@ def txt_filter(file_name):
         result = []
         for i in range(max_time):
             result.append(" ")
-
         for row in tracks:
-            params = row
-            if result[int(params[1])].count(params[4]) < 3:
+            params = row.copy()
+            # print("result[",int(params[1]),"]",result[int(params[1])],"---",chr(int(params[4]))," ", result[int(params[1])].count(chr(int(params[4]))))
+            if result[int(params[1])].count(chr(int(params[4]))) < 2:
                 result[int(params[1])] = result[int(params[1])].strip()
                 result[int(params[1])] += chr(int(params[4]))
 

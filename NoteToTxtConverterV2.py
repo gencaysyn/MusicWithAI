@@ -14,7 +14,6 @@ def noteToTxtConverter(in_file_name, out_file_name):
     # for note in data:
     #   result += note.split(" ")
     result = []
-    print(data)
     i = 0
     while i < len(data):
         if data[i] == " ":
@@ -25,7 +24,7 @@ def noteToTxtConverter(in_file_name, out_file_name):
             while data[j] != " ":
                 result[-1] += data[j]
                 j += 1
-            i = j-1
+                i = j-1
         i += 1
     print(data)
     print(result)
