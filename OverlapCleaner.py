@@ -92,12 +92,8 @@ def overlap_cleaner(file_name):
                     repeat[note] -= 1
         i += 1
 
-    # Aynı anda birden fazla on - off durumunun temizlenmesi için yazılmıştır
-    # Hep ikinci olanı sildiğinden hatalıdır
-
     params = []
-
-    for i in range(len(data)):
+    for i in range(1, len(data)):
         if "Note" in data[i]:
             p = data[i].split(", ")
             params.append(Parameters(i, p[1], p[2], p[4], p[5][0:-1]))
@@ -125,9 +121,10 @@ def overlap_cleaner(file_name):
 
     for i in range(len(need_delete)):
         data[int(need_delete[i])] = 0
+    data = list(filter((0).__ne__, data))
+
     for i in data:
         print(i)
-    data = list(filter((0).__ne__, data))
 
     with open("txt_inputs\\" + "TEST_" + file_name, "w") as f:
         f.writelines(data)

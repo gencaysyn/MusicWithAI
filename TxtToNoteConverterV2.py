@@ -14,19 +14,15 @@ def txt_filter(file_name):
     counter = 0
     with open("txt_inputs\\" + file_name, "r") as f:
         data = f.readlines()
-        i = 0
-        resolution = round(int(data[i].split(", ")[5]) / 8)
+        i = 1
+        resolution = round(int(data[0].split(", ")[5]) / 8)
         tracks = []
         while i < len(data):
-            if data[i].find("Start_track") != -1:
-                while data[i].find("End_track") == -1:
-                    if data[i].find("Note") != -1:
-                        params = data[i].split(", ")
-                        params[5] = params[5][0:-1]
-                        params[1] = str(round(int(params[1]) / resolution))  # time
-                        tracks.append(params)
-                    i = i + 1
-            i = i + 1
+            params = data[i].split(", ")
+            params[5] = params[5][0:-1]
+            params[1] = str(round(int(params[1]) / resolution))  # time
+            tracks.append(params)
+                    
         max_time = max_val(tracks)
         result = []
         for i in range(max_time):
