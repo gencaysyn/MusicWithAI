@@ -80,6 +80,9 @@ def overlap_cleaner(file_name):
     # Aynı anda birden fazla on - off durumunun temizlenmesi için yazılmıştır
     # Hep ikinci olanı sildiğinden hatalıdır
 
+    # Aynı anda birden fazla on - off durumunun temizlenmesi için yazılmıştır
+    # Hep ikinci olanı sildiğinden hatalıdır
+
     params = []
 
     for i in range(len(data)):
@@ -138,12 +141,15 @@ def overlap_cleaner(file_name):
     for i in range(len(need_delete)):
         data[int(need_delete[i])] = 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     # for i in data:
     #     print(i)
     data = list(filter((0).__ne__, data))
 
     with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "TEST_" + file_name, "w") as f:
 =======
+=======
+>>>>>>> parent of 5326c09... Update
     for i in data:
         print(i)
     data = list(filter((0).__ne__, data))

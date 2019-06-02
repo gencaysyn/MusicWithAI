@@ -17,6 +17,7 @@ def txt_filter(file_name):
         tracks = []
         while i < len(data):
 <<<<<<< HEAD
+<<<<<<< HEAD
             params = data[i].split(", ")
             params[5] = params[5][0:-1]
             params[1] = str(round(int(params[1]) // resolution))  # time
@@ -24,6 +25,8 @@ def txt_filter(file_name):
             i += 1
                     
 =======
+=======
+>>>>>>> parent of 5326c09... Update
             if data[i].find("Start_track") != -1:
                 while data[i].find("End_track") == -1:
                     if data[i].find("Note") != -1:
@@ -33,6 +36,9 @@ def txt_filter(file_name):
                         tracks.append(params)
                     i = i + 1
             i = i + 1
+<<<<<<< HEAD
+>>>>>>> parent of 5326c09... Update
+=======
 >>>>>>> parent of 5326c09... Update
         max_time = max_val(tracks)
         result = []
