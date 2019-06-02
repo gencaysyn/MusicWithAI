@@ -1,5 +1,4 @@
 import os
-import subprocess
 
 
 def max_val(channels):
@@ -11,7 +10,6 @@ def max_val(channels):
 
 
 def txt_filter(file_name):
-    counter = 0
     with open("txt_inputs\\" + file_name, "r") as f:
         data = f.readlines()
         i = 1
@@ -20,8 +18,9 @@ def txt_filter(file_name):
         while i < len(data):
             params = data[i].split(", ")
             params[5] = params[5][0:-1]
-            params[1] = str(round(int(params[1]) / resolution))  # time
+            params[1] = str(round(int(params[1]) // resolution))  # time
             tracks.append(params)
+            i += 1
                     
         max_time = max_val(tracks)
         result = []

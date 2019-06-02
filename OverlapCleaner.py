@@ -16,12 +16,10 @@ class Parameters:
 
 
 def reverse_same_time(params):
-
     same_times = [[]]
     k = 0
     loop_flag = False
     i = 0
-
 
     while i < len(params) - 1:
         j = i
@@ -74,44 +72,24 @@ def overlap_cleaner(file_name):
         data = f.readlines()
 
     data = sorted(data, key=lambda x: int(x.split(", ")[1]))
+    resolution = round(int(data[0].split(", ")[5]) / 8)
 
     with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "SORTED_" + file_name, "w") as f:
         f.writelines(data)
-
-    # repeat = [0] * 128
-    # i = 0
-    # while i < len(data):
-    #     if data[i].find("Note") != -1:
-    #         params = data[i].split(", ")
-    #         note = int(params[4])
-    #         if params[2] == "Note_on_c" and params[5][0:-1] != 0:
-    #             repeat[note] += 1
-    #             if repeat[note] > 1:
-    #                 buffer = data[i]
-    #                 data.insert(i, buffer.replace("Note_on_c", "Note_off_c"))
-    #                 i += 1
-    #         else:
-    #             data[i].replace("Note_on_c", "Note_off_c")
-    #             if repeat[note] > 1:
-    #                 data.pop(i)
-    #                 i = i - 1
-    #                 repeat[note] -= 1
-    #             else:
-    #                 repeat[note] -= 1
-    #     i += 1
 
     params = []
     for i in range(1, len(data)):
         if "Note" in data[i]:
             p = data[i].split(", ")
-            if p[5][0:-1] == '0':
+            if int(p[5][0:-1]) == 0:
                 p[2] = "Note_off_c"
+                data[i] = data[i].replace("Note_on_c", "Note_off_c")
+            p[1] = str(int(p[1]) // resolution)
             params.append(Parameters(i, p[0], p[1], p[2], p[4], p[5][0:-1]))
         else:
             data[i] = 0
 
     same_times = reverse_same_time(params.copy())
-
     sts_note = reverse_same_note(same_times.copy())
 
     for i in sts_note:
@@ -121,18 +99,37 @@ def overlap_cleaner(file_name):
 
     need_delete = []
 
-    for i in range(len(sts_note)):
-        if sts_note[i][0].position == sts_note[i][-1].position:
-            for k in range(len(sts_note[i]) - 1):
-                need_delete.append(sts_note[i][k].index)
-        else:
-            if sts_note[i][-1].position == "Note_off_c":
-                for k in range(len(sts_note[i]) - 1):
-                    need_delete.append(sts_note[i][k].index)
+    # for i in range(len(sts_note)):
+    #     if sts_note[i][0].position == sts_note[i][-1].position:
+    #         for k in range(len(sts_note[i]) - 1):
+    #             need_delete.append(sts_note[i][k].index)
+    #     else:
+    #         if sts_note[i][-1].position == "Note_off_c":
+    #             for k in range(len(sts_note[i]) - 1):
+    #                 need_delete.append(sts_note[i][k].index)
+    #         else:
+    #             if len(sts_note[i]) > 2:
+    #                 for k in range(1, len(sts_note[i]) - 1):
+    #                     need_delete.append(sts_note[i][k].index)
+
+    for note in sts_note:
+        con = 0
+        coff = 0
+        for j in note:
+            if j.position == "Note_off_c":
+                coff += 1
             else:
-                if len(sts_note[i]) > 2:
-                    for k in range(1, len(sts_note[i]) - 1):
-                        need_delete.append(sts_note[i][k].index)
+                con += 1
+        if con > 0 and coff > 0:
+            data[note[0].index] = data[note[0].index].replace("Note_on_c", "Note_off_c")
+            data[note[1].index] = data[note[1].index].replace("Note_off_c", "Note_on_c")
+            buf = data[note[1].index].split(", ")
+            data[note[1].index] = data[note[1].index][::-1].replace(buf[5][::-1], "\n99",1)[::-1]
+            for x in range(2, len(note)):
+                need_delete.append(note[x].index)
+        else:
+            for x in range(1, len(note)):
+                need_delete.append(note[x].index)
 
     for i in range(len(need_delete)):
         data[int(need_delete[i])] = 0
