@@ -3,22 +3,26 @@ import itertools
 
 
 class Parameters:
-    def __init__(self, index, time, position, note, velocity):
+    def __init__(self, index, channel, time, position, note, velocity):
         self.time = time
         self.position = position
         self.note = note
         self.index = index
         self.velocity = velocity
+        self.channel = channel
 
     def to_string(self):
-        print(self.index, self.time, self.position, self.note, self.velocity)
+        print(self.index, self.channel, self.time, self.position, self.note, self.velocity)
 
 
 def reverse_same_time(params):
+
     same_times = [[]]
     k = 0
     loop_flag = False
     i = 0
+
+
     while i < len(params) - 1:
         j = i
         while j < len(params) - 1 and (params[j].time == params[j + 1].time):
@@ -53,7 +57,8 @@ def reverse_same_note(same_times):
         index.append(buffer.copy())
 
     for i in range(len(index)):
-        index[i] = list(index[i] for index[i], _ in itertools.groupby(index[i]))
+        index[i].sort()
+        index[i] = list(index[i] for index[i], _ in itertools.groupby(index[i])).copy()
         for j in range(len(index[i])):
             row = []
             if len(index[i][j]) > 1:
@@ -70,39 +75,49 @@ def overlap_cleaner(file_name):
 
     data = sorted(data, key=lambda x: int(x.split(", ")[1]))
 
-    repeat = [0] * 128
-    i = 0
-    while i < len(data):
-        if data[i].find("Note") != -1:
-            params = data[i].split(", ")
-            note = int(params[4])
-            if params[2] == "Note_on_c" and params[5][0:-1] != 0:
-                repeat[note] += 1
-                if repeat[note] > 1:
-                    buffer = data[i]
-                    data.insert(i, buffer.replace("Note_on_c", "Note_off_c"))
-                    i += 1
-            else:
-                data[i].replace("Note_on_c", "Note_off_c")
-                if repeat[note] > 1:
-                    data.pop(i)
-                    i = i - 1
-                    repeat[note] -= 1
-                else:
-                    repeat[note] -= 1
-        i += 1
+    with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "SORTED_" + file_name, "w") as f:
+        f.writelines(data)
+
+    # repeat = [0] * 128
+    # i = 0
+    # while i < len(data):
+    #     if data[i].find("Note") != -1:
+    #         params = data[i].split(", ")
+    #         note = int(params[4])
+    #         if params[2] == "Note_on_c" and params[5][0:-1] != 0:
+    #             repeat[note] += 1
+    #             if repeat[note] > 1:
+    #                 buffer = data[i]
+    #                 data.insert(i, buffer.replace("Note_on_c", "Note_off_c"))
+    #                 i += 1
+    #         else:
+    #             data[i].replace("Note_on_c", "Note_off_c")
+    #             if repeat[note] > 1:
+    #                 data.pop(i)
+    #                 i = i - 1
+    #                 repeat[note] -= 1
+    #             else:
+    #                 repeat[note] -= 1
+    #     i += 1
 
     params = []
     for i in range(1, len(data)):
         if "Note" in data[i]:
             p = data[i].split(", ")
-            params.append(Parameters(i, p[1], p[2], p[4], p[5][0:-1]))
+            if p[5][0:-1] == '0':
+                p[2] = "Note_off_c"
+            params.append(Parameters(i, p[0], p[1], p[2], p[4], p[5][0:-1]))
         else:
             data[i] = 0
 
     same_times = reverse_same_time(params.copy())
 
-    sts_note = reverse_same_note(same_times)
+    sts_note = reverse_same_note(same_times.copy())
+
+    for i in sts_note:
+        for j in i:
+            j.to_string()
+        print()
 
     need_delete = []
 
@@ -121,12 +136,11 @@ def overlap_cleaner(file_name):
 
     for i in range(len(need_delete)):
         data[int(need_delete[i])] = 0
+    # for i in data:
+    #     print(i)
     data = list(filter((0).__ne__, data))
 
-    for i in data:
-        print(i)
-
-    with open("txt_inputs\\" + "TEST_" + file_name, "w") as f:
+    with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "TEST_" + file_name, "w") as f:
         f.writelines(data)
 
 
