@@ -8,7 +8,6 @@ def noteToTxtConverter(in_file_name, out_file_name):
 
     final = open(out_file_name, "w")
 
-    result = []
     noteON = "Note_on_c, 0, "
     noteOFF = "Note_off_c, 0, "
     # for note in data:
@@ -21,13 +20,13 @@ def noteToTxtConverter(in_file_name, out_file_name):
         else:
             j = i
             result.append("")
-            while data[j] != " ":
+            while j < len(data) and data[j] != " ":
                 result[-1] += data[j]
                 j += 1
                 i = j-1
         i += 1
-    print(data)
-    print(result)
+    # print(data)
+    # print(result)
     resolution = 512
     final.write("0, 0, Header, 1, 2, " + str(resolution) + "\n")
     final.writelines("1, 0, Start_track\n")
@@ -42,31 +41,35 @@ def noteToTxtConverter(in_file_name, out_file_name):
     repeat = [0]*128
     i = 0
     time = -(resolution // 16)
+    # print(result)
     while i < len(result):
         if result[i] != " ":
             time += (resolution // 16)
             j = 0
+            row_repeat = [0]*128
             while j < len(result[i]):
                 note = ord(result[i][j])
-                if result[i].count(chr(note)) < 2:
-                    if repeat[note] == 0:
-                        print("2, " + str(time) + ", " + noteON + str(note) + ", 100")
-                        final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
-                        repeat[note] = 1
+                if note < 127:
+                    if result[i].count(chr(note)) == 2:
+                        if row_repeat[note] == 0:
+                            #print("2, " + str(time) + ", " + noteOFF + str(note) + ", 100")
+                            final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
+                            row_repeat[note] = 1
+                            repeat[note] = 1
+                        else:
+                            #print("2, " + str(time) + ", " + noteON + str(note) + ", 64")
+                            final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
+                            row_repeat[note] = 0
+                            repeat[note] = 1
                     else:
-                        print("2, " + str(time) + ", " + noteOFF + str(note) + ", 64")
-                        final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
-                        repeat[note] = 0
-                else:
-                    if repeat[note] == 0:
-                        print("2, " + str(time) + ", " + noteOFF + str(note) + ", 100")
-                        final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 100\n")
-                        repeat[note] = 1
-                    else:
-                        print("2, " + str(time) + ", " + noteON + str(note) + ", 64")
-                        final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 64\n")
-                        repeat[note] = 0
-
+                        if repeat[note] == 0:
+                            #print("2, " + str(time) + ", " + noteOFF + str(note) + ", 100")
+                            final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
+                            repeat[note] = 1
+                        else:
+                            #print("2, " + str(time) + ", " + noteON + str(note) + ", 64")
+                            final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
+                            repeat[note] = 0
                 j += 1
         else:
             time += (resolution // 16)
