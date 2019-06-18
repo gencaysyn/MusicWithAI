@@ -1,46 +1,93 @@
-in_file_name = "fil_out.txt"
-out_file_name = "Final.txt"
-with open("txt_outputs\\" + in_file_name, "r") as f:
-    data = f.readlines()
+import os
 
-final = open("note_outputs\\" + out_file_name, "w")
+def noteToTxtConverter(in_file_name, out_file_name):
+    with open(in_file_name, "r") as f:
+        data = f.read()
 
-result = []
-time = 0
-noteON = "Note_on_c, 0, "
-noteOFF = "Note_off_c, 0, "
-repeat = []
+    final = open(out_file_name, "w")
 
-for i in range(0, 127):
-    repeat.append(0)
-
-for note in data:
-    result += note.split(" ")
-
-final.write("0, 0, Header, 1, 2, 500\n")
-final.writelines("1, 0, Start_track\n")
-final.writelines("1, 0, Title_t, 'example'\n")
-final.writelines("1, 0, Tempo, 500000\n")
-final.writelines("1, 0, Time_signature, 4, 2, 24, 8\n")
-final.writelines("1, 0, End_track\n")
-final.writelines("2, 0, Start_track\n")
-final.writelines("2, 0, Title_t, 'Instrument Track 01'\n")
-final.writelines("2, 0, Program_c, 6, 6\n")
-
-for word in result:
-    for char in word:
-        note = ord(char)
-        if repeat[note] == 0:
-            print("2, " + str(time) + ", " + noteON + str(note) + ", 100")
-            final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
-            repeat[note] = 1
+    noteON = "Note_on_c, 0, "
+    noteOFF = "Note_off_c, 0, "
+    # for note in data:
+    #   result += note.split(" ")
+    result = []
+    i = 0
+    while i < len(data):
+        if data[i] == " ":
+            result.append(" ")
         else:
-            print("2, " + str(time) + ", " + noteOFF + str(note) + ", 64")
-            final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
-            repeat[note] = 0
-    time += 500
+            j = i
+            result.append("")
+            while j < len(data) and data[j] != " ":
+                result[-1] += data[j]
+                j += 1
+                i = j - 1
+        i += 1
+    # print(data)
+    # print(result)
+    resolution = 512
+    final.write("0, 0, Header, 1, 2, " + str(resolution) + "\n")
+    final.writelines("1, 0, Start_track\n")
+    final.writelines("1, 0, Title_t, 'example'\n")
+    final.writelines("1, 0, Tempo, 413793\n")
+    final.writelines("1, 0, Time_signature, 4, 2, 24, 8\n")
+    final.writelines("1, 0, End_track\n")
+    final.writelines("2, 0, Start_track\n")
+    final.writelines("2, 0, Title_t, 'Instrument Track 01'\n")
+    final.writelines("2, 0, Program_c, 6, 6\n")
 
-final.writelines("2, "+str(time-500)+", End_track\n")
-final.writelines("0, 0, End_of_file\n")
+    repeat = [0] * 128
+    i = 0
+    time = -(resolution // 16)
+    # print(result)
+    while i < len(result):
+        if result[i] != " ":
+            time += (resolution // 16)
+            j = 0
+            row_repeat = [0] * 128
+            while j < len(result[i]):
+                note = ord(result[i][j])
+                if note < 127:
+                    if result[i].count(chr(note)) == 2:
+                        if row_repeat[note] == 0:
+                            # print("2, " + str(time) + ", " + noteOFF + str(note) + ", 100")
+                            final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
+                            row_repeat[note] = 1
+                            repeat[note] = 1
+                        else:
+                            # print("2, " + str(time) + ", " + noteON + str(note) + ", 64")
+                            final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
+                            row_repeat[note] = 0
+                            repeat[note] = 1
+                    else:
+                        if repeat[note] == 0:
+                            # print("2, " + str(time) + ", " + noteOFF + str(note) + ", 100")
+                            final.writelines("2, " + str(time) + ", " + noteON + str(note) + ", 100\n")
+                            repeat[note] = 1
+                        else:
+                            # print("2, " + str(time) + ", " + noteON + str(note) + ", 64")
+                            final.writelines("2, " + str(time) + ", " + noteOFF + str(note) + ", 64\n")
+                            repeat[note] = 0
+                j += 1
+        else:
+            time += (resolution // 16)
+        i += 1
 
-final.close()
+    final.writelines("2, " + str(time) + ", End_track\n")
+    final.writelines("0, 0, End_of_file\n")
+    final.close()
+
+
+def convert():
+    print("|---------------------------|")
+    print("| Note to Txt is working... |")
+    print("|---------------------------|")
+    note_files = os.listdir(os.getcwd() + "/note_inputs")
+    for file_names in note_files:
+        print(file_names, "converted to txt.")
+        noteToTxtConverter("note_inputs/" + file_names, "note_outputs/noteToTxt_" + file_names)
+        noteToTxtConverter("note_inputs/" + file_names, "midicsv/CsvToMidi_inputs_" + file_names)
+
+# note_files = os.listdir(os.getcwd() + "/note_inputs")
+# for file_names in note_files:
+#     noteToTxtConverter("note_inputs/" + file_names, "note_outputs/noteToTxt_" + file_names)

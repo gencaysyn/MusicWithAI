@@ -1,37 +1,52 @@
 import os
 
+def max_val(channels):
+    maxval = 0
+    for i in range(len(channels)):
+        if maxval < int(channels[i][1]):
+            maxval = int(channels[i][1]) + 1
+    return maxval
+
+
 def txt_filter(file_name):
-    counter = 0
-    with open("txt_inputs\\" + file_name, "r") as f:
+    with open("test\\" + file_name, "r") as f:
         data = f.readlines()
-        result = ""
-        i = 0
-        while i < len(data):
-            if data[i].find("Start_track") != -1:
-                while i < len(data):
-                    if data[i].find("Program_c") != -1:
-                        if int(data[i].split(", ")[4]) < 8:
-                            while data[i].find("End_track") == -1:
-                                if data[i].find("Note") != -1:
-                                    if data[i - 1].find("Note") != -1:
-                                        previous = int(data[i - 1].split(", ")[1])
-                                    else:
-                                        previous = -1
-                                    if int(data[i].split(", ")[1]) == int(previous):
-                                        result += chr(int(data[i].split(", ")[4]))
-                                    else:
-                                        result += " " + chr(int(data[i].split(", ")[4]))
-                                    counter = counter + 1
-                                i = i + 1
-                    i = i + 1
-            i = i + 1
-    result = result[1:-1]
-    print(result)
-    with open("txt_outputs\\Fil_" + file_name, "w") as of:
-        of.write(result)
 
+        resolution = round(int(data[0].split(", ")[5]) // 8)
+        tracks = []
+        for i in range(1, len(data)):
+            params = data[i].split(", ")
+            params[1] = str(round(int(params[1]) / resolution))  # time
+            tracks.append(params)
 
-txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+        max_time = int(tracks[-1][1])+1
+        # print(max_time)
+        result = []
+        for i in range(max_time):
+            result.append(" ")
+        for row in tracks:
+            params = row.copy()
+            if result[int(params[1])].count(chr(int(params[4]))) < 2:
+                result[int(params[1])] = result[int(params[1])].strip()
+                result[int(params[1])] += chr(int(params[4]))
 
-for file_names in txt_files:
-    txt_filter(file_names)
+        out = ""
+        for i in range(len(result)):
+            out += result[i] + " "
+        # print(out)
+    with open("txt_outputs/note_" + file_name, "w") as of:
+        of.write(out)
+
+def convert():
+    print("|------------------------------------|")
+    print("|Txt to Note Converter is working... |")
+    print("|------------------------------------|")
+    txt_files = os.listdir(os.getcwd() + "/test")
+    for file in txt_files:
+        print(file,"converted to note.")
+        txt_filter(file)
+
+# txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+#
+# for file in txt_files:
+#     txt_filter(file)

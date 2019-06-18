@@ -1,7 +1,6 @@
 import os
 import itertools
 
-
 class Parameters:
     def __init__(self, index, channel, time, position, note, velocity):
         self.time = time
@@ -74,9 +73,6 @@ def overlap_cleaner(file_name):
     data = sorted(data, key=lambda x: int(x.split(", ")[1]))
     resolution = round(int(data[0].split(", ")[5]) / 8)
 
-    # with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "SORTED_" + file_name, "w") as f:
-    #     f.writelines(data)
-
     repeat = [0] * 128
     i = 0
     while i < len(data):
@@ -144,20 +140,29 @@ def overlap_cleaner(file_name):
         data[int(need_delete[i])] = '0'
 
     data = list(filter('0'.__ne__, data))
-    # for i in data:
-    #     print(i,end="")
 
-    with open("C:/Users\genca\Documents\GitHub\MusicWithAI/test/" + "TEST_" + file_name, "w") as f:
+    with open(os.getcwd()+"/test" + "TEST_" + file_name, "w") as f:
         f.writelines(data)
 
 
-txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+def convert():
+    print("|-------------------------------|")
+    print("| Overlep Cleaner is working... |")
+    print("|-------------------------------|")
+    txt_files = os.listdir(os.getcwd() + "/txt_inputs")
 
-print(len(txt_files), "files revealed !")
-ind = 0
-for file in txt_files:
-    overlap_cleaner(file)
-    print(ind,file, " created.")
-    ind += 1
+    print(len(txt_files), "files revealed !")
+    ind = 0
+    for file in txt_files:
+        overlap_cleaner(file)
+        print(ind, file, " created.")
+        ind += 1
 
-x = input("Press enter...")
+# txt_files = os.listdir(os.getcwd() + "/txt_inputs")
+#
+# print(len(txt_files), "files revealed !")
+# ind = 0
+# for file in txt_files:
+#     overlap_cleaner(file)
+#     print(ind, file, " created.")
+#     ind += 1
