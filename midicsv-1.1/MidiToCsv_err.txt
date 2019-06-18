@@ -1,6 +1,7295 @@
-Format 1 MIDI file.  2 tracks, 512 ticks per quarter note.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
 Track 1: length 27.
-Track 2: length 258.
-Format 1 MIDI file.  2 tracks, 512 ticks per quarter note.
+Track 2: length 651.
+Track 3: length 669.
+Track 4: length 795.
+Track 5: length 705.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 596.
+Track 4: length 596.
+Track 5: length 596.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 587.
+Track 3: length 704.
+Track 4: length 668.
+Track 5: length 686.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 587.
+Track 3: length 704.
+Track 4: length 668.
+Track 5: length 686.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 489.
+Track 4: length 543.
+Track 5: length 480.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 524.
+Track 3: length 605.
+Track 4: length 605.
+Track 5: length 596.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 704.
+Track 3: length 821.
+Track 4: length 776.
+Track 5: length 1001.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 986.
+Track 3: length 1229.
+Track 4: length 1283.
+Track 5: length 1462.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 989.
+Track 3: length 1232.
+Track 4: length 1286.
+Track 5: length 1465.
+Track 6: length 747.
+Track 7: length 1367.
+Track 8: length 712.
+Track 9: length 707.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1002.
+Track 3: length 1056.
+Track 4: length 1083.
+Track 5: length 1200.
+Track 6: length 1155.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 560.
+Track 4: length 632.
+Track 5: length 614.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 444.
+Track 3: length 471.
+Track 4: length 525.
+Track 5: length 516.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 521.
+Track 3: length 557.
+Track 4: length 620.
+Track 5: length 548.
+Track 6: length 557.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 550.
+Track 3: length 577.
+Track 4: length 559.
+Track 5: length 577.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 550.
+Track 3: length 577.
+Track 4: length 550.
+Track 5: length 568.
+Track 6: length 3185.
+Track 7: length 1061.
+Track 8: length 586.
+Track 9: length 586.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 418.
+Track 3: length 436.
+Track 4: length 472.
+Track 5: length 436.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 345.
+Track 3: length 345.
+Track 4: length 381.
+Track 5: length 426.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 669.
+Track 4: length 669.
+Track 5: length 714.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 514.
+Track 3: length 541.
+Track 4: length 469.
+Track 5: length 556.
+Track 6: length 514.
+Track 7: length 532.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 587.
+Track 3: length 686.
+Track 4: length 623.
+Track 5: length 686.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 618.
+Track 3: length 708.
+Track 4: length 681.
+Track 5: length 645.
+Track 6: length 645.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 544.
+Track 3: length 499.
+Track 4: length 499.
+Track 5: length 463.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 879.
+Track 3: length 915.
+Track 4: length 1050.
+Track 5: length 1068.
+Track 6: length 879.
+Track 7: length 978.
+Track 8: length 1097.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 567.
+Track 3: length 756.
+Track 4: length 630.
+Track 5: length 693.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 237.
+Track 3: length 967.
+Track 4: length 743.
+Track 5: length 763.
+Track 6: length 813.
+Track 7: length 1570.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 317.
+Track 3: length 335.
+Track 4: length 371.
+Track 5: length 380.
+Track 6: length 389.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 317.
+Track 3: length 335.
+Track 4: length 371.
+Track 5: length 380.
+Track 6: length 389.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 354.
+Track 3: length 399.
+Track 4: length 444.
+Track 5: length 444.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 481.
+Track 3: length 571.
+Track 4: length 562.
+Track 5: length 715.
+Track 6: length 1092.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 515.
+Track 3: length 677.
+Track 4: length 623.
+Track 5: length 713.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 318.
+Track 3: length 327.
+Track 4: length 354.
+Track 5: length 408.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 653.
+Track 3: length 752.
+Track 4: length 806.
+Track 5: length 905.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 345.
+Track 3: length 399.
+Track 4: length 417.
+Track 5: length 390.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 372.
+Track 3: length 399.
+Track 4: length 408.
+Track 5: length 462.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 435.
+Track 3: length 435.
+Track 4: length 444.
+Track 5: length 480.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 489.
+Track 3: length 534.
+Track 4: length 642.
+Track 5: length 543.
+Track 6: length 642.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 516.
+Track 3: length 552.
+Track 4: length 642.
+Track 5: length 579.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 824.
+Track 3: length 887.
+Track 4: length 878.
+Track 5: length 869.
+Track 6: length 549.
+Track 7: length 657.
+Track 8: length 623.
+Track 9: length 487.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 578.
+Track 3: length 641.
+Track 4: length 650.
+Track 5: length 695.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 452.
+Track 3: length 515.
+Track 4: length 479.
+Track 5: length 623.
+Track 6: length 533.
+Track 7: length 524.
+Track 8: length 506.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 452.
+Track 3: length 515.
+Track 4: length 479.
+Track 5: length 623.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 642.
+Track 3: length 732.
+Track 4: length 822.
+Track 5: length 795.
+Track 6: length 795.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 597.
+Track 4: length 570.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 597.
+Track 4: length 570.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 561.
+Track 3: length 570.
+Track 4: length 597.
+Track 5: length 669.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 495.
+Track 3: length 693.
+Track 4: length 747.
+Track 5: length 803.
+Track 6: length 2175.
+Track 7: length 3518.
+Track 8: length 1494.
+Track 9: length 1593.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 495.
+Track 3: length 693.
+Track 4: length 747.
+Track 5: length 803.
+Track 6: length 2175.
+Track 7: length 3518.
+Track 8: length 1494.
+Track 9: length 1593.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 758.
+Track 3: length 1073.
+Track 4: length 1073.
+Track 5: length 992.
+Track 6: length 4053.
+Track 7: length 1561.
+Track 8: length 1920.
+Track 9: length 1245.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 758.
+Track 3: length 1073.
+Track 4: length 1073.
+Track 5: length 992.
+Track 6: length 4053.
+Track 7: length 1561.
+Track 8: length 1920.
+Track 9: length 1245.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 591.
+Track 3: length 618.
+Track 4: length 600.
+Track 5: length 582.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 596.
+Track 3: length 614.
+Track 4: length 704.
+Track 5: length 713.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 488.
+Track 4: length 524.
+Track 5: length 524.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 492.
+Track 3: length 501.
+Track 4: length 537.
+Track 5: length 537.
+Track 6: length 1313.
+Track 7: length 3246.
+Track 8: length 2251.
+Track 9: length 2547.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 291.
+Track 3: length 345.
+Track 4: length 354.
+Track 5: length 327.
+Track 6: length 354.
+Track 7: length 354.
+Track 8: length 204.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 678.
+Track 3: length 804.
+Track 4: length 840.
+Track 5: length 804.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 524.
+Track 3: length 659.
+Track 4: length 704.
+Track 5: length 740.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 498.
+Track 4: length 480.
+Track 5: length 462.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 482.
+Track 3: length 518.
+Track 4: length 527.
+Track 5: length 527.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 633.
+Track 3: length 723.
+Track 4: length 696.
+Track 5: length 660.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 561.
+Track 3: length 669.
+Track 4: length 633.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 686.
+Track 4: length 776.
+Track 5: length 875.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 507.
+Track 3: length 615.
+Track 4: length 615.
+Track 5: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 444.
+Track 4: length 471.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 534.
+Track 4: length 525.
+Track 5: length 669.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 453.
+Track 4: length 462.
+Track 5: length 534.
+Track 6: length 507.
+Track 7: length 534.
+Track 8: length 276.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 453.
+Track 4: length 462.
+Track 5: length 534.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1069.
+Track 3: length 1185.
+Track 4: length 1133.
+Track 5: length 1362.
+Track 6: length 1643.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 678.
+Track 3: length 795.
+Track 4: length 696.
+Track 5: length 795.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 501.
+Track 3: length 510.
+Track 4: length 564.
+Track 5: length 501.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 561.
+Track 4: length 543.
+Track 5: length 579.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 579.
+Track 3: length 597.
+Track 4: length 714.
+Track 5: length 669.
+Track 6: length 669.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 516.
+Track 4: length 534.
+Track 5: length 543.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 471.
+Track 3: length 507.
+Track 4: length 597.
+Track 5: length 498.
+Track 6: length 543.
+Track 7: length 471.
+Track 8: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 471.
+Track 3: length 507.
+Track 4: length 597.
+Track 5: length 498.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 539.
+Track 3: length 1116.
+Track 4: length 1026.
+Track 5: length 1152.
+Track 6: length 5717.
+Track 7: length 8349.
+Track 8: length 2590.
+Track 9: length 2987.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 588.
+Track 4: length 777.
+Track 5: length 651.
+Format 1 MIDI file.  6 tracks, 120 ticks per quarter note.
+Track 1: length 261.
+Track 2: length 872.
+Track 3: length 500.
+Track 4: length 1218.
+Track 5: length 882.
+Track 6: length 4.
+Format 1 MIDI file.  15 tracks, 120 ticks per quarter note.
+Track 1: length 272.
+Track 2: length 7584.
+Track 3: length 3769.
+Track 4: length 9036.
+Track 5: length 2893.
+Track 6: length 2480.
+Track 7: length 3165.
+Track 8: length 2673.
+Track 9: length 4378.
+Track 10: length 3584.
+Track 11: length 3827.
+Track 12: length 3713.
+Track 13: length 3364.
+Track 14: length 4387.
+Track 15: length 4.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 696.
+Track 4: length 750.
+Track 5: length 797.
+Track 6: length 4926.
+Track 7: length 7380.
+Track 8: length 7144.
+Track 9: length 3275.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 498.
+Track 4: length 561.
+Track 5: length 516.
+Track 6: length 498.
+Track 7: length 507.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 471.
+Track 3: length 507.
+Track 4: length 480.
+Track 5: length 489.
+Track 6: length 498.
+Track 7: length 507.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 507.
+Track 3: length 579.
+Track 4: length 534.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 642.
+Track 3: length 804.
+Track 4: length 813.
+Track 5: length 750.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 597.
+Track 3: length 678.
+Track 4: length 615.
+Track 5: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 597.
+Track 3: length 678.
+Track 4: length 615.
+Track 5: length 714.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 568.
+Track 3: length 685.
+Track 4: length 793.
+Track 5: length 856.
+Track 6: length 883.
+Track 7: length 2189.
+Track 8: length 2189.
+Track 9: length 2189.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 1516.
+Track 3: length 1338.
+Track 4: length 1390.
+Track 5: length 1130.
+Track 6: length 1883.
+Track 7: length 3581.
+Track 8: length 1871.
+Track 9: length 1871.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 630.
+Track 3: length 666.
+Track 4: length 621.
+Track 5: length 621.
+Track 6: length 2253.
+Track 7: length 2269.
+Track 8: length 2028.
+Track 9: length 2010.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 570.
+Track 3: length 606.
+Track 4: length 660.
+Track 5: length 867.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 417.
+Track 3: length 489.
+Track 4: length 525.
+Track 5: length 507.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 651.
+Track 3: length 876.
+Track 4: length 822.
+Track 5: length 912.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 696.
+Track 4: length 678.
+Track 5: length 741.
+Track 6: length 633.
+Track 7: length 602.
+Track 8: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 678.
+Track 4: length 705.
+Track 5: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 687.
+Track 4: length 678.
+Track 5: length 732.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 434.
+Track 3: length 515.
+Track 4: length 560.
+Track 5: length 776.
+Track 6: length 812.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 434.
+Track 3: length 515.
+Track 4: length 560.
+Track 5: length 776.
+Track 6: length 812.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 489.
+Track 3: length 552.
+Track 4: length 507.
+Track 5: length 471.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 669.
+Track 4: length 714.
+Track 5: length 678.
+Track 6: length 678.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 687.
+Track 4: length 714.
+Track 5: length 696.
+Track 6: length 696.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 669.
+Track 4: length 714.
+Track 5: length 678.
+Track 6: length 678.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 391.
+Track 3: length 418.
+Track 4: length 455.
+Track 5: length 446.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 705.
+Track 4: length 669.
+Track 5: length 740.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 470.
+Track 3: length 461.
+Track 4: length 497.
+Track 5: length 504.
+Track 6: length 446.
+Track 7: length 524.
+Track 8: length 453.
+Track 9: length 409.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 615.
+Track 4: length 615.
+Track 5: length 732.
+Track 6: length 741.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 362.
+Track 3: length 362.
+Track 4: length 371.
+Track 5: length 398.
+Track 6: length 389.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 650.
+Track 4: length 659.
+Track 5: length 632.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 443.
+Track 3: length 533.
+Track 4: length 578.
+Track 5: length 731.
+Track 6: length 758.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 480.
+Track 4: length 534.
+Track 5: length 525.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 958.
+Track 3: length 1102.
+Track 4: length 1183.
+Track 5: length 1156.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 958.
+Track 3: length 1102.
+Track 4: length 1183.
+Track 5: length 1156.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 606.
+Track 4: length 597.
+Track 5: length 597.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 543.
+Track 4: length 570.
+Track 5: length 552.
+Track 6: length 705.
+Track 7: length 588.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 562.
+Track 3: length 616.
+Track 4: length 607.
+Track 5: length 742.
+Track 6: length 2718.
+Track 7: length 3414.
+Track 8: length 4275.
+Track 9: length 3707.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 426.
+Track 4: length 381.
+Track 5: length 606.
+Track 6: length 669.
+Track 7: length 690.
+Track 8: length 381.
+Track 9: length 206.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 564.
+Track 3: length 582.
+Track 4: length 519.
+Track 5: length 564.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 507.
+Track 3: length 660.
+Track 4: length 687.
+Track 5: length 714.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 408.
+Track 4: length 435.
+Track 5: length 606.
+Track 6: length 732.
+Track 7: length 597.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 472.
+Track 3: length 1929.
+Track 4: length 1682.
+Track 5: length 1428.
+Track 6: length 4907.
+Track 7: length 7285.
+Track 8: length 10453.
+Track 9: length 16911.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 7254.
+Track 3: length 615.
+Track 4: length 3993.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2696.
+Track 3: length 2687.
+Track 4: length 2418.
+Track 5: length 2472.
+Track 6: length 4549.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 470.
+Track 3: length 461.
+Track 4: length 497.
+Track 5: length 504.
+Track 6: length 446.
+Track 7: length 524.
+Track 8: length 453.
+Track 9: length 409.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 296.
+Track 2: length 470.
+Track 3: length 461.
+Track 4: length 497.
+Track 5: length 504.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 397.
+Track 3: length 559.
+Track 4: length 595.
+Track 5: length 613.
+Track 6: length 2350.
+Track 7: length 5143.
+Track 8: length 11049.
+Track 9: length 2199.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 561.
+Track 4: length 525.
+Track 5: length 552.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1466.
+Track 3: length 4112.
+Track 4: length 3945.
+Track 5: length 3883.
+Track 6: length 8212.
+Track 7: length 11644.
+Track 8: length 15519.
+Track 9: length 7832.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 6007.
+Track 3: length 911.
+Track 4: length 911.
+Track 5: length 3417.
+Track 6: length 3417.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 838.
+Track 3: length 919.
+Track 4: length 901.
+Track 5: length 1099.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 642.
+Track 4: length 687.
+Track 5: length 660.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 642.
+Track 3: length 723.
+Track 4: length 831.
+Track 5: length 894.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 497.
+Track 4: length 533.
+Track 5: length 488.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 371.
+Track 3: length 443.
+Track 4: length 425.
+Track 5: length 416.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 371.
+Track 3: length 443.
+Track 4: length 425.
+Track 5: length 425.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 641.
+Track 3: length 659.
+Track 4: length 668.
+Track 5: length 695.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 681.
+Track 3: length 699.
+Track 4: length 726.
+Track 5: length 780.
+Track 6: length 1920.
+Track 7: length 5154.
+Track 8: length 3336.
+Track 9: length 1974.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 681.
+Track 3: length 699.
+Track 4: length 726.
+Track 5: length 780.
+Track 6: length 1920.
+Track 7: length 5154.
+Track 8: length 3336.
+Track 9: length 1974.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 419.
+Track 3: length 482.
+Track 4: length 482.
+Track 5: length 545.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 419.
+Track 3: length 500.
+Track 4: length 491.
+Track 5: length 536.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1029.
+Track 3: length 1155.
+Track 4: length 1281.
+Track 5: length 1191.
+Track 6: length 173.
+Track 7: length 1029.
+Track 8: length 1128.
+Track 9: length 85.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1029.
+Track 3: length 1155.
+Track 4: length 1281.
+Track 5: length 1191.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 409.
+Track 3: length 373.
+Track 4: length 427.
+Track 5: length 391.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 606.
+Track 4: length 651.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 570.
+Track 4: length 642.
+Track 5: length 543.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 335.
+Track 3: length 344.
+Track 4: length 353.
+Track 5: length 335.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 614.
+Track 4: length 677.
+Track 5: length 686.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 453.
+Track 3: length 543.
+Track 4: length 498.
+Track 5: length 768.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 642.
+Track 3: length 714.
+Track 4: length 741.
+Track 5: length 669.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 687.
+Track 4: length 615.
+Track 5: length 669.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 452.
+Track 3: length 542.
+Track 4: length 551.
+Track 5: length 749.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 589.
+Track 3: length 616.
+Track 4: length 670.
+Track 5: length 670.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 533.
+Track 3: length 650.
+Track 4: length 668.
+Track 5: length 677.
+Track 6: length 659.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 508.
+Track 3: length 697.
+Track 4: length 832.
+Track 5: length 607.
+Track 6: length 607.
+Track 7: length 1597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 614.
+Track 3: length 695.
+Track 4: length 641.
+Track 5: length 749.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 516.
+Track 4: length 588.
+Track 5: length 624.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 336.
+Track 3: length 372.
+Track 4: length 408.
+Track 5: length 380.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 498.
+Track 4: length 525.
+Track 5: length 489.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 678.
+Track 4: length 714.
+Track 5: length 669.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 597.
+Track 4: length 606.
+Track 5: length 561.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 989.
+Track 3: length 1232.
+Track 4: length 1286.
+Track 5: length 1465.
+Track 6: length 2007.
+Track 7: length 712.
+Track 8: length 707.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 698.
+Track 3: length 770.
+Track 4: length 931.
+Track 5: length 966.
+Track 6: length 1135.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 698.
+Track 3: length 770.
+Track 4: length 931.
+Track 5: length 966.
+Track 6: length 1135.
+Format 1 MIDI file.  2 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1135.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1047.
+Track 3: length 1218.
+Track 4: length 1137.
+Track 5: length 1128.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 879.
+Track 3: length 915.
+Track 4: length 1050.
+Track 5: length 1068.
+Track 6: length 879.
+Track 7: length 978.
+Track 8: length 1097.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 879.
+Track 3: length 915.
+Track 4: length 1050.
+Track 5: length 1068.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 759.
+Track 3: length 822.
+Track 4: length 885.
+Track 5: length 867.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 813.
+Track 3: length 804.
+Track 4: length 858.
+Track 5: length 732.
+Track 6: length 732.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 813.
+Track 3: length 804.
+Track 4: length 858.
+Track 5: length 732.
+Track 6: length 732.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 579.
+Track 4: length 678.
+Track 5: length 615.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 489.
+Track 3: length 732.
+Track 4: length 696.
+Track 5: length 588.
+Track 6: length 579.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 740.
+Track 3: length 749.
+Track 4: length 830.
+Track 5: length 749.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 740.
+Track 3: length 749.
+Track 4: length 830.
+Track 5: length 749.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 678.
+Track 3: length 777.
+Track 4: length 831.
+Track 5: length 714.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 705.
+Track 3: length 786.
+Track 4: length 687.
+Track 5: length 786.
+Track 6: length 777.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 705.
+Track 3: length 786.
+Track 4: length 687.
+Track 5: length 786.
+Track 6: length 777.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 840.
+Track 3: length 805.
+Track 4: length 804.
+Track 5: length 669.
+Track 6: length 876.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 632.
+Track 3: length 668.
+Track 4: length 632.
+Track 5: length 686.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 419.
+Track 3: length 500.
+Track 4: length 500.
+Track 5: length 509.
+Format 1 MIDI file.  10 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 966.
+Track 3: length 1047.
+Track 4: length 1074.
+Track 5: length 993.
+Track 6: length 993.
+Track 7: length 2924.
+Track 8: length 2743.
+Track 9: length 2833.
+Track 10: length 784.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 966.
+Track 3: length 1047.
+Track 4: length 1074.
+Track 5: length 993.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 650.
+Track 4: length 740.
+Track 5: length 758.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 650.
+Track 4: length 740.
+Track 5: length 758.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 399.
+Track 4: length 381.
+Track 5: length 327.
+Track 6: length 372.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 444.
+Track 3: length 507.
+Track 4: length 480.
+Track 5: length 516.
+Track 6: length 525.
+Track 7: length 784.
+Track 8: length 215.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 651.
+Track 4: length 651.
+Track 5: length 750.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 548.
+Track 3: length 566.
+Track 4: length 548.
+Track 5: length 764.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 500.
+Track 3: length 563.
+Track 4: length 536.
+Track 5: length 545.
+Format 1 MIDI file.  6 tracks, 120 ticks per quarter note.
+Track 1: length 256.
+Track 2: length 913.
+Track 3: length 498.
+Track 4: length 829.
+Track 5: length 510.
+Track 6: length 4.
+Format 1 MIDI file.  7 tracks, 120 ticks per quarter note.
+Track 1: length 172.
+Track 2: length 29.
+Track 3: length 4246.
+Track 4: length 4253.
+Track 5: length 7621.
+Track 6: length 5104.
+Track 7: length 11792.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 880.
+Track 3: length 952.
+Track 4: length 997.
+Track 5: length 1105.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 880.
+Track 3: length 952.
+Track 4: length 997.
+Track 5: length 1105.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 551.
+Track 3: length 650.
+Track 4: length 704.
+Track 5: length 686.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 560.
+Track 3: length 615.
+Track 4: length 803.
+Track 5: length 830.
+Track 6: length 622.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 533.
+Track 3: length 1125.
+Track 4: length 1116.
+Track 5: length 1046.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2531.
+Track 3: length 2311.
+Track 4: length 574.
+Track 5: length 3473.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 551.
+Track 3: length 650.
+Track 4: length 704.
+Track 5: length 686.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 866.
+Track 3: length 803.
+Track 4: length 848.
+Track 5: length 794.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1360.
+Track 3: length 1168.
+Track 4: length 1276.
+Track 5: length 1064.
+Track 6: length 203.
+Track 7: length 203.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 444.
+Track 4: length 480.
+Track 5: length 489.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 435.
+Track 3: length 543.
+Track 4: length 561.
+Track 5: length 534.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 633.
+Track 4: length 633.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 633.
+Track 4: length 633.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 633.
+Track 4: length 633.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 633.
+Track 4: length 633.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 723.
+Track 4: length 813.
+Track 5: length 714.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 517.
+Track 3: length 625.
+Track 4: length 634.
+Track 5: length 733.
+Track 6: length 742.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 480.
+Track 4: length 489.
+Track 5: length 498.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 489.
+Track 4: length 561.
+Track 5: length 498.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 659.
+Track 3: length 740.
+Track 4: length 776.
+Track 5: length 695.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 642.
+Track 4: length 615.
+Track 5: length 624.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 453.
+Track 4: length 435.
+Track 5: length 462.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 615.
+Track 4: length 615.
+Track 5: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 579.
+Track 3: length 651.
+Track 4: length 615.
+Track 5: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 579.
+Track 3: length 651.
+Track 4: length 615.
+Track 5: length 597.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 489.
+Track 4: length 453.
+Track 5: length 417.
+Track 6: length 426.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 516.
+Track 3: length 597.
+Track 4: length 561.
+Track 5: length 525.
+Track 6: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 481.
+Track 3: length 517.
+Track 4: length 463.
+Track 5: length 481.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 587.
+Track 3: length 614.
+Track 4: length 605.
+Track 5: length 578.
+Track 6: length 578.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 542.
+Track 3: length 560.
+Track 4: length 623.
+Track 5: length 596.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 453.
+Track 3: length 471.
+Track 4: length 417.
+Track 5: length 705.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 525.
+Track 4: length 597.
+Track 5: length 525.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 534.
+Track 4: length 525.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 551.
+Track 3: length 542.
+Track 4: length 560.
+Track 5: length 542.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 515.
+Track 4: length 641.
+Track 5: length 587.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1047.
+Track 3: length 1164.
+Track 4: length 1191.
+Track 5: length 1137.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 561.
+Track 3: length 723.
+Track 4: length 723.
+Track 5: length 669.
+Track 6: length 687.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 358.
+Track 3: length 403.
+Track 4: length 412.
+Track 5: length 457.
+Track 6: length 1083.
+Track 7: length 1214.
+Track 8: length 555.
+Track 9: length 466.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 354.
+Track 3: length 399.
+Track 4: length 408.
+Track 5: length 453.
+Track 6: length 507.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 741.
+Track 4: length 888.
+Track 5: length 795.
+Track 6: length 777.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 372.
+Track 3: length 363.
+Track 4: length 426.
+Track 5: length 426.
+Track 6: length 417.
+Track 7: length 399.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 367.
+Track 3: length 448.
+Track 4: length 484.
+Track 5: length 466.
+Track 6: length 808.
+Track 7: length 564.
+Track 8: length 968.
+Track 9: length 542.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 363.
+Track 3: length 444.
+Track 4: length 480.
+Track 5: length 462.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 399.
+Track 3: length 507.
+Track 4: length 489.
+Track 5: length 688.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 452.
+Track 3: length 497.
+Track 4: length 524.
+Track 5: length 479.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 435.
+Track 3: length 543.
+Track 4: length 588.
+Track 5: length 615.
+Track 6: length 678.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 522.
+Track 3: length 666.
+Track 4: length 666.
+Track 5: length 801.
+Track 6: length 2881.
+Track 7: length 3591.
+Track 8: length 4944.
+Track 9: length 2203.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 515.
+Track 3: length 659.
+Track 4: length 659.
+Track 5: length 794.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 472.
+Track 3: length 580.
+Track 4: length 553.
+Track 5: length 580.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 507.
+Track 3: length 525.
+Track 4: length 597.
+Track 5: length 624.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 633.
+Track 3: length 669.
+Track 4: length 741.
+Track 5: length 660.
+Track 6: length 885.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 547.
+Track 3: length 655.
+Track 4: length 691.
+Track 5: length 718.
+Track 6: length 6416.
+Track 7: length 6194.
+Track 8: length 4765.
+Track 9: length 11609.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 642.
+Track 4: length 678.
+Track 5: length 705.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 547.
+Track 3: length 655.
+Track 4: length 691.
+Track 5: length 718.
+Track 6: length 6416.
+Track 7: length 6190.
+Track 8: length 4765.
+Track 9: length 11609.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 634.
+Track 3: length 643.
+Track 4: length 679.
+Track 5: length 598.
+Track 6: length 643.
+Track 7: length 625.
+Track 8: length 593.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 642.
+Track 3: length 732.
+Track 4: length 714.
+Track 5: length 777.
+Track 6: length 633.
+Track 7: length 759.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 507.
+Track 3: length 606.
+Track 4: length 660.
+Track 5: length 741.
+Track 6: length 759.
+Track 7: length 507.
+Track 8: length 850.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 372.
+Track 3: length 372.
+Track 4: length 381.
+Track 5: length 435.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 498.
+Track 4: length 516.
+Track 5: length 525.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 309.
+Track 4: length 354.
+Track 5: length 345.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 660.
+Track 3: length 606.
+Track 4: length 669.
+Track 5: length 687.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 669.
+Track 4: length 633.
+Track 5: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 624.
+Track 4: length 597.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 416.
+Track 3: length 470.
+Track 4: length 569.
+Track 5: length 668.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 660.
+Track 4: length 795.
+Track 5: length 723.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 829.
+Track 3: length 955.
+Track 4: length 919.
+Track 5: length 1018.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 614.
+Track 4: length 641.
+Track 5: length 596.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 533.
+Track 4: length 533.
+Track 5: length 614.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 303.
+Track 3: length 366.
+Track 4: length 384.
+Track 5: length 321.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 291.
+Track 3: length 399.
+Track 4: length 363.
+Track 5: length 363.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 569.
+Track 4: length 542.
+Track 5: length 614.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 912.
+Track 3: length 911.
+Track 4: length 984.
+Track 5: length 913.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 912.
+Track 3: length 911.
+Track 4: length 984.
+Track 5: length 913.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 426.
+Track 3: length 624.
+Track 4: length 633.
+Track 5: length 606.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 579.
+Track 3: length 723.
+Track 4: length 750.
+Track 5: length 750.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 633.
+Track 4: length 696.
+Track 5: length 660.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 615.
+Track 4: length 624.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 561.
+Track 4: length 624.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 417.
+Track 3: length 471.
+Track 4: length 516.
+Track 5: length 534.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 354.
+Track 3: length 399.
+Track 4: length 462.
+Track 5: length 498.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 438.
+Track 3: length 492.
+Track 4: length 573.
+Track 5: length 609.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 1066.
+Track 3: length 1282.
+Track 4: length 1462.
+Track 5: length 1264.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 651.
+Track 3: length 687.
+Track 4: length 804.
+Track 5: length 777.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 679.
+Track 3: length 742.
+Track 4: length 868.
+Track 5: length 823.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 589.
+Track 3: length 616.
+Track 4: length 670.
+Track 5: length 670.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 759.
+Track 3: length 786.
+Track 4: length 903.
+Track 5: length 822.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 256.
+Track 3: length 301.
+Track 4: length 283.
+Track 5: length 328.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 293.
+Track 3: length 365.
+Track 4: length 383.
+Track 5: length 392.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 758.
+Track 4: length 731.
+Track 5: length 767.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 578.
+Track 4: length 659.
+Track 5: length 677.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 471.
+Track 3: length 597.
+Track 4: length 579.
+Track 5: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 228.
+Track 3: length 246.
+Track 4: length 264.
+Track 5: length 273.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 516.
+Track 3: length 606.
+Track 4: length 624.
+Track 5: length 741.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 588.
+Track 4: length 651.
+Track 5: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 516.
+Track 3: length 471.
+Track 4: length 516.
+Track 5: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 336.
+Track 3: length 363.
+Track 4: length 372.
+Track 5: length 336.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 373.
+Track 3: length 427.
+Track 4: length 445.
+Track 5: length 499.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 425.
+Track 3: length 650.
+Track 4: length 686.
+Track 5: length 569.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 309.
+Track 3: length 399.
+Track 4: length 318.
+Track 5: length 363.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 750.
+Track 3: length 804.
+Track 4: length 948.
+Track 5: length 876.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 308.
+Track 3: length 425.
+Track 4: length 461.
+Track 5: length 506.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 386.
+Track 3: length 476.
+Track 4: length 485.
+Track 5: length 467.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 435.
+Track 3: length 498.
+Track 4: length 534.
+Track 5: length 471.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 372.
+Track 3: length 399.
+Track 4: length 444.
+Track 5: length 525.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 750.
+Track 3: length 705.
+Track 4: length 723.
+Track 5: length 777.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 455.
+Track 2: length 1577.
+Track 3: length 1051.
+Track 4: length 4.
+Format 1 MIDI file.  18 tracks, 120 ticks per quarter note.
+Track 1: length 183.
+Track 2: length 24.
+Track 3: length 1808.
+Track 4: length 1845.
+Track 5: length 1811.
+Track 6: length 1813.
+Track 7: length 1944.
+Track 8: length 1849.
+Track 9: length 2692.
+Track 10: length 2367.
+Track 11: length 2014.
+Track 12: length 1812.
+Track 13: length 2013.
+Track 14: length 2355.
+Track 15: length 2693.
+Track 16: length 3525.
+Track 17: length 4012.
+Track 18: length 6.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 485.
+Track 3: length 521.
+Track 4: length 548.
+Track 5: length 593.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 722.
+Track 4: length 731.
+Track 5: length 722.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 660.
+Track 3: length 705.
+Track 4: length 777.
+Track 5: length 759.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 678.
+Track 3: length 786.
+Track 4: length 804.
+Track 5: length 768.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 803.
+Track 3: length 858.
+Track 4: length 902.
+Track 5: length 921.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 633.
+Track 3: length 840.
+Track 4: length 912.
+Track 5: length 957.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 372.
+Track 3: length 426.
+Track 4: length 480.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 579.
+Track 3: length 606.
+Track 4: length 669.
+Track 5: length 669.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 588.
+Track 3: length 507.
+Track 4: length 669.
+Track 5: length 552.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 759.
+Track 4: length 822.
+Track 5: length 858.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 356.
+Track 3: length 437.
+Track 4: length 419.
+Track 5: length 392.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 833.
+Track 3: length 968.
+Track 4: length 878.
+Track 5: length 869.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 824.
+Track 3: length 1040.
+Track 4: length 1022.
+Track 5: length 941.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 471.
+Track 3: length 615.
+Track 4: length 768.
+Track 5: length 786.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 471.
+Track 4: length 471.
+Track 5: length 426.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 815.
+Track 3: length 842.
+Track 4: length 842.
+Track 5: length 770.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 723.
+Track 4: length 912.
+Track 5: length 822.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1001.
+Track 3: length 1118.
+Track 4: length 1172.
+Track 5: length 1136.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 434.
+Track 3: length 515.
+Track 4: length 479.
+Track 5: length 443.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 444.
+Track 4: length 471.
+Track 5: length 489.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 821.
+Track 3: length 839.
+Track 4: length 866.
+Track 5: length 956.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 470.
+Track 3: length 578.
+Track 4: length 551.
+Track 5: length 551.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 850.
+Track 3: length 1030.
+Track 4: length 1102.
+Track 5: length 1066.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 218.
+Track 3: length 236.
+Track 4: length 245.
+Track 5: length 272.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 45.
+Track 2: length 245.
+Track 3: length 182.
+Track 4: length 182.
+Track 5: length 218.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 535.
+Track 3: length 697.
+Track 4: length 652.
+Track 5: length 787.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 309.
+Track 3: length 381.
+Track 4: length 345.
+Track 5: length 750.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 309.
+Track 3: length 363.
+Track 4: length 354.
+Track 5: length 399.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3802.
+Track 3: length 5566.
+Track 4: length 5017.
+Track 5: length 4864.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 425.
+Track 3: length 524.
+Track 4: length 542.
+Track 5: length 605.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 515.
+Track 3: length 677.
+Track 4: length 587.
+Track 5: length 704.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 434.
+Track 3: length 497.
+Track 4: length 569.
+Track 5: length 551.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 327.
+Track 4: length 354.
+Track 5: length 444.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 678.
+Track 4: length 795.
+Track 5: length 732.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 678.
+Track 4: length 651.
+Track 5: length 642.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 363.
+Track 3: length 363.
+Track 4: length 390.
+Track 5: length 354.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 363.
+Track 3: length 363.
+Track 4: length 390.
+Track 5: length 354.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 309.
+Track 3: length 390.
+Track 4: length 381.
+Track 5: length 408.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 344.
+Track 3: length 443.
+Track 4: length 443.
+Track 5: length 650.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 660.
+Track 4: length 723.
+Track 5: length 741.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 576.
+Track 3: length 657.
+Track 4: length 657.
+Track 5: length 702.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1056.
+Track 3: length 1236.
+Track 4: length 1290.
+Track 5: length 1272.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 302.
+Track 3: length 374.
+Track 4: length 329.
+Track 5: length 356.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 497.
+Track 3: length 560.
+Track 4: length 551.
+Track 5: length 542.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 516.
+Track 3: length 768.
+Track 4: length 894.
+Track 5: length 678.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 434.
+Track 3: length 551.
+Track 4: length 614.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 894.
+Track 3: length 678.
+Track 4: length 732.
+Track 5: length 759.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 518.
+Track 3: length 554.
+Track 4: length 617.
+Track 5: length 572.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 651.
+Track 3: length 642.
+Track 4: length 732.
+Track 5: length 723.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 669.
+Track 4: length 669.
+Track 5: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 317.
+Track 3: length 362.
+Track 4: length 434.
+Track 5: length 416.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 660.
+Track 3: length 876.
+Track 4: length 894.
+Track 5: length 822.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 345.
+Track 3: length 426.
+Track 4: length 444.
+Track 5: length 471.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 785.
+Track 4: length 767.
+Track 5: length 794.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 596.
+Track 3: length 731.
+Track 4: length 758.
+Track 5: length 830.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 614.
+Track 3: length 767.
+Track 4: length 722.
+Track 5: length 839.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 488.
+Track 3: length 605.
+Track 4: length 758.
+Track 5: length 731.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 803.
+Track 4: length 704.
+Track 5: length 731.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 641.
+Track 3: length 641.
+Track 4: length 641.
+Track 5: length 740.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 551.
+Track 3: length 722.
+Track 4: length 722.
+Track 5: length 713.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 578.
+Track 3: length 623.
+Track 4: length 632.
+Track 5: length 695.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 632.
+Track 4: length 623.
+Track 5: length 641.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 533.
+Track 3: length 488.
+Track 4: length 479.
+Track 5: length 569.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 37.
+Track 2: length 1218.
+Track 3: length 1479.
+Track 4: length 1290.
+Track 5: length 1542.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 426.
+Track 3: length 471.
+Track 4: length 579.
+Track 5: length 480.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 347.
+Track 3: length 401.
+Track 4: length 392.
+Track 5: length 428.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 435.
+Track 3: length 552.
+Track 4: length 507.
+Track 5: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 443.
+Track 3: length 614.
+Track 4: length 659.
+Track 5: length 749.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 382.
+Track 3: length 445.
+Track 4: length 454.
+Track 5: length 625.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 696.
+Track 4: length 724.
+Track 5: length 867.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 561.
+Track 4: length 615.
+Track 5: length 660.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 309.
+Track 3: length 363.
+Track 4: length 381.
+Track 5: length 327.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1209.
+Track 3: length 1965.
+Track 4: length 2118.
+Track 5: length 1911.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 45.
+Track 2: length 560.
+Track 3: length 767.
+Track 4: length 722.
+Track 5: length 812.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 470.
+Track 3: length 533.
+Track 4: length 587.
+Track 5: length 614.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 452.
+Track 3: length 533.
+Track 4: length 587.
+Track 5: length 614.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 530.
+Track 3: length 782.
+Track 4: length 872.
+Track 5: length 809.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 435.
+Track 4: length 498.
+Track 5: length 426.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 426.
+Track 3: length 435.
+Track 4: length 417.
+Track 5: length 453.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 533.
+Track 4: length 559.
+Track 5: length 561.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 486.
+Track 3: length 603.
+Track 4: length 612.
+Track 5: length 639.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 416.
+Track 3: length 497.
+Track 4: length 578.
+Track 5: length 632.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 551.
+Track 3: length 524.
+Track 4: length 614.
+Track 5: length 713.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 560.
+Track 3: length 650.
+Track 4: length 632.
+Track 5: length 668.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 444.
+Track 3: length 543.
+Track 4: length 570.
+Track 5: length 615.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 943.
+Track 3: length 1195.
+Track 4: length 1339.
+Track 5: length 1348.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 444.
+Track 4: length 435.
+Track 5: length 480.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 481.
+Track 3: length 571.
+Track 4: length 553.
+Track 5: length 580.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 519.
+Track 3: length 539.
+Track 4: length 602.
+Track 5: length 728.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 354.
+Track 4: length 408.
+Track 5: length 435.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 705.
+Track 4: length 687.
+Track 5: length 723.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 966.
+Track 3: length 1020.
+Track 4: length 1065.
+Track 5: length 1101.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 975.
+Track 3: length 1029.
+Track 4: length 957.
+Track 5: length 993.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 506.
+Track 3: length 623.
+Track 4: length 596.
+Track 5: length 623.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 490.
+Track 3: length 481.
+Track 4: length 517.
+Track 5: length 517.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 462.
+Track 3: length 453.
+Track 4: length 489.
+Track 5: length 462.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 508.
+Track 3: length 616.
+Track 4: length 553.
+Track 5: length 598.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 489.
+Track 3: length 516.
+Track 4: length 462.
+Track 5: length 498.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 274.
+Track 3: length 301.
+Track 4: length 301.
+Track 5: length 355.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 614.
+Track 3: length 839.
+Track 4: length 803.
+Track 5: length 821.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 548.
+Track 3: length 566.
+Track 4: length 548.
+Track 5: length 764.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 606.
+Track 4: length 624.
+Track 5: length 624.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 503.
+Track 2: length 2034.
+Track 3: length 1766.
+Track 4: length 4.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 237.
+Track 2: length 31.
+Track 3: length 5701.
+Track 4: length 1743.
+Track 5: length 12536.
+Track 6: length 3890.
+Track 7: length 6713.
+Track 8: length 6101.
+Track 9: length 5539.
+Track 10: length 6253.
+Track 11: length 4839.
+Track 12: length 3039.
+Track 13: length 4888.
+Track 14: length 4203.
+Track 15: length 3598.
+Track 16: length 5998.
+Track 17: length 12442.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 380.
+Track 3: length 452.
+Track 4: length 407.
+Track 5: length 452.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 561.
+Track 3: length 741.
+Track 4: length 660.
+Track 5: length 678.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 894.
+Track 3: length 1101.
+Track 4: length 1101.
+Track 5: length 1110.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 398.
+Track 3: length 542.
+Track 4: length 524.
+Track 5: length 776.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 300.
+Track 3: length 345.
+Track 4: length 354.
+Track 5: length 318.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 300.
+Track 3: length 345.
+Track 4: length 354.
+Track 5: length 318.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 417.
+Track 4: length 471.
+Track 5: length 435.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 353.
+Track 3: length 497.
+Track 4: length 506.
+Track 5: length 506.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 605.
+Track 3: length 947.
+Track 4: length 1019.
+Track 5: length 938.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 393.
+Track 3: length 393.
+Track 4: length 429.
+Track 5: length 447.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 362.
+Track 3: length 407.
+Track 4: length 407.
+Track 5: length 443.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 362.
+Track 3: length 425.
+Track 4: length 425.
+Track 5: length 479.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 479.
+Track 3: length 542.
+Track 4: length 560.
+Track 5: length 551.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 569.
+Track 3: length 794.
+Track 4: length 848.
+Track 5: length 911.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 573.
+Track 3: length 591.
+Track 4: length 600.
+Track 5: length 618.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 821.
+Track 3: length 1046.
+Track 4: length 920.
+Track 5: length 1568.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 525.
+Track 4: length 543.
+Track 5: length 624.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 570.
+Track 4: length 696.
+Track 5: length 777.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 480.
+Track 3: length 498.
+Track 4: length 534.
+Track 5: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 597.
+Track 3: length 759.
+Track 4: length 732.
+Track 5: length 795.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 552.
+Track 3: length 678.
+Track 4: length 642.
+Track 5: length 687.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 525.
+Track 3: length 714.
+Track 4: length 633.
+Track 5: length 651.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 426.
+Track 3: length 426.
+Track 4: length 507.
+Track 5: length 507.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 408.
+Track 3: length 426.
+Track 4: length 444.
+Track 5: length 426.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 470.
+Track 3: length 479.
+Track 4: length 524.
+Track 5: length 551.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 596.
+Track 3: length 695.
+Track 4: length 713.
+Track 5: length 668.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 431.
+Track 3: length 413.
+Track 4: length 494.
+Track 5: length 395.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 936.
+Track 3: length 1269.
+Track 4: length 1278.
+Track 5: length 1278.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 544.
+Track 3: length 643.
+Track 4: length 643.
+Track 5: length 706.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 439.
+Track 3: length 502.
+Track 4: length 493.
+Track 5: length 475.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 588.
+Track 3: length 606.
+Track 4: length 660.
+Track 5: length 705.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 606.
+Track 3: length 660.
+Track 4: length 723.
+Track 5: length 678.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 588.
+Track 3: length 669.
+Track 4: length 768.
+Track 5: length 723.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 346.
+Track 3: length 409.
+Track 4: length 445.
+Track 5: length 427.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 417.
+Track 4: length 417.
+Track 5: length 453.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 761.
+Track 3: length 968.
+Track 4: length 1112.
+Track 5: length 914.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 543.
+Track 3: length 615.
+Track 4: length 696.
+Track 5: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 390.
+Track 3: length 534.
+Track 4: length 525.
+Track 5: length 579.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 652.
+Track 3: length 796.
+Track 4: length 778.
+Track 5: length 787.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 949.
+Track 3: length 1455.
+Track 4: length 1500.
+Track 5: length 1590.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 327.
+Track 3: length 390.
+Track 4: length 381.
+Track 5: length 417.
+Format 1 MIDI file.  10 tracks, 120 ticks per quarter note.
+Track 1: length 240.
+Track 2: length 31.
+Track 3: length 6716.
+Track 4: length 2890.
+Track 5: length 2519.
+Track 6: length 2210.
+Track 7: length 3693.
+Track 8: length 3317.
+Track 9: length 5908.
+Track 10: length 3898.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 579.
+Track 3: length 597.
+Track 4: length 633.
+Track 5: length 689.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 310.
+Track 2: length 1305.
+Track 3: length 1410.
+Track 4: length 4.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 221.
+Track 2: length 31.
+Track 3: length 1278.
+Track 4: length 277.
+Track 5: length 1817.
+Track 6: length 1737.
+Track 7: length 1739.
+Track 8: length 1846.
+Track 9: length 1819.
+Track 10: length 2155.
+Track 11: length 1875.
+Track 12: length 1891.
+Track 13: length 1923.
+Track 14: length 1830.
+Track 15: length 2155.
+Track 16: length 1744.
+Track 17: length 1737.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 444.
+Track 3: length 1004.
+Track 4: length 1006.
+Track 5: length 546.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 882.
+Track 3: length 2417.
+Track 4: length 2460.
+Track 5: length 622.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 882.
+Track 3: length 2417.
+Track 4: length 2460.
+Track 5: length 622.
+Track 6: length 622.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 498.
+Track 3: length 2057.
+Track 4: length 2374.
+Track 5: length 1025.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 6035.
+Track 3: length 920.
+Track 4: length 920.
+Track 5: length 3417.
+Track 6: length 3417.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3516.
+Track 3: length 3009.
+Track 4: length 417.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3230.
+Track 3: length 3088.
+Track 4: length 4018.
+Track 5: length 483.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 206.
+Track 3: length 1124.
+Track 4: length 1205.
+Track 5: length 1422.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 352.
+Track 3: length 6078.
+Track 4: length 1956.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 7254.
+Track 3: length 3993.
+Track 4: length 615.
+Track 5: length 615.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 7870.
+Track 3: length 8043.
+Track 4: length 269.
+Track 5: length 511.
+Track 6: length 8568.
+Track 7: length 981.
+Track 8: length 981.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2751.
+Track 3: length 7119.
+Track 4: length 7520.
+Track 5: length 3582.
+Track 6: length 3582.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3334.
+Track 3: length 3208.
+Track 4: length 1821.
+Track 5: length 2307.
+Track 6: length 2307.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1548.
+Track 3: length 4680.
+Track 4: length 4707.
+Track 5: length 3452.
+Track 6: length 3452.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 7695.
+Track 3: length 6819.
+Track 4: length 2811.
+Track 5: length 2811.
+Track 6: length 296.
+Track 7: length 296.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 6360.
+Track 3: length 4865.
+Track 4: length 3387.
+Track 5: length 9055.
+Track 6: length 585.
+Track 7: length 585.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 494.
+Track 3: length 4471.
+Track 4: length 4382.
+Track 5: length 3817.
+Track 6: length 3817.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3607.
+Track 3: length 3001.
+Track 4: length 3444.
+Track 5: length 550.
+Track 6: length 550.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2732.
+Track 3: length 1861.
+Track 4: length 1720.
+Track 5: length 2138.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1298.
+Track 3: length 3998.
+Track 4: length 3617.
+Track 5: length 3617.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 4215.
+Track 3: length 3568.
+Track 4: length 3884.
+Track 5: length 308.
+Track 6: length 308.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2417.
+Track 3: length 5103.
+Track 4: length 4607.
+Track 5: length 2694.
+Track 6: length 2685.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 8861.
+Track 3: length 5818.
+Track 4: length 3294.
+Track 5: length 3125.
+Track 6: length 3125.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 9289.
+Track 3: length 8760.
+Track 4: length 3955.
+Track 5: length 3955.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 122.
+Track 3: length 95.
+Track 4: length 1470.
+Track 5: length 2625.
+Track 6: length 755.
+Track 7: length 4255.
+Track 8: length 2483.
+Track 9: length 541.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 976.
+Track 3: length 2904.
+Track 4: length 2666.
+Track 5: length 3121.
+Track 6: length 40.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 106.
+Track 3: length 2401.
+Track 4: length 311.
+Track 5: length 1119.
+Track 6: length 1771.
+Track 7: length 2814.
+Track 8: length 647.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 224.
+Track 3: length 1482.
+Track 4: length 1446.
+Track 5: length 1078.
+Track 6: length 1078.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 397.
+Track 3: length 2494.
+Track 4: length 2566.
+Track 5: length 2080.
+Track 6: length 2080.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1034.
+Track 3: length 1034.
+Track 4: length 1838.
+Track 5: length 1516.
+Track 6: length 1885.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1253.
+Track 3: length 627.
+Track 4: length 609.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2122.
+Track 3: length 49.
+Track 4: length 731.
+Track 5: length 609.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 6958.
+Track 3: length 6698.
+Track 4: length 390.
+Track 5: length 390.
+Track 6: length 390.
+Format 0 MIDI file.  1 tracks, 960 ticks per quarter note.
+Track 1: length 12657.
+Format 1 MIDI file.  11 tracks, 120 ticks per quarter note.
+Track 1: length 233.
+Track 2: length 31.
+Track 3: length 7157.
+Track 4: length 3214.
+Track 5: length 2127.
+Track 6: length 2008.
+Track 7: length 3499.
+Track 8: length 3586.
+Track 9: length 6873.
+Track 10: length 4793.
+Track 11: length 4766.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2047.
+Track 3: length 2217.
+Track 4: length 958.
+Track 5: length 1996.
+Track 6: length 325.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 1448.
+Track 3: length 2004.
+Track 4: length 2146.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2854.
+Track 3: length 3650.
+Track 4: length 4044.
+Track 5: length 4207.
+Track 6: length 261.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 597.
+Track 3: length 1208.
+Track 4: length 1034.
+Track 5: length 1101.
+Track 6: length 401.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 3036.
+Track 3: length 3036.
+Track 4: length 332.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 2492.
+Track 3: length 2420.
+Track 4: length 321.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 348.
+Track 3: length 2926.
+Track 4: length 1757.
+Track 5: length 1784.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 5831.
+Track 3: length 2689.
+Track 4: length 2650.
+Track 5: length 369.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 398.
+Track 3: length 3048.
+Track 4: length 1913.
+Track 5: length 2502.
+Track 6: length 2515.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 177.
+Track 2: length 1149.
+Track 3: length 693.
+Track 4: length 4.
+Format 1 MIDI file.  13 tracks, 120 ticks per quarter note.
+Track 1: length 211.
+Track 2: length 24.
+Track 3: length 3599.
+Track 4: length 986.
+Track 5: length 1000.
+Track 6: length 1418.
+Track 7: length 843.
+Track 8: length 844.
+Track 9: length 857.
+Track 10: length 731.
+Track 11: length 918.
+Track 12: length 1890.
+Track 13: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 295.
+Track 2: length 1359.
+Track 3: length 1116.
+Track 4: length 4.
+Format 1 MIDI file.  9 tracks, 120 ticks per quarter note.
+Track 1: length 210.
+Track 2: length 31.
+Track 3: length 4539.
+Track 4: length 2882.
+Track 5: length 2557.
+Track 6: length 2585.
+Track 7: length 3174.
+Track 8: length 2193.
+Track 9: length 9315.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 425.
+Track 2: length 1130.
+Track 3: length 864.
+Track 4: length 858.
+Track 5: length 4.
+Format 1 MIDI file.  8 tracks, 120 ticks per quarter note.
+Track 1: length 176.
+Track 2: length 31.
+Track 3: length 3986.
+Track 4: length 6137.
+Track 5: length 6071.
+Track 6: length 4138.
+Track 7: length 5242.
+Track 8: length 5251.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 578.
+Track 3: length 1557.
+Track 4: length 1628.
+Track 5: length 934.
+Format 1 MIDI file.  6 tracks, 120 ticks per quarter note.
+Track 1: length 219.
+Track 2: length 1577.
+Track 3: length 1144.
+Track 4: length 1571.
+Track 5: length 1138.
+Track 6: length 4.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 202.
+Track 2: length 5502.
+Track 3: length 3282.
+Track 4: length 604.
+Track 5: length 12081.
+Track 6: length 4288.
+Track 7: length 7065.
+Track 8: length 5849.
+Track 9: length 4790.
+Track 10: length 6636.
+Track 11: length 5190.
+Track 12: length 3838.
+Track 13: length 4808.
+Track 14: length 5051.
+Track 15: length 4357.
+Track 16: length 6636.
+Track 17: length 6107.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 408.
+Track 2: length 2235.
+Track 3: length 1037.
+Track 4: length 4.
+Format 1 MIDI file.  11 tracks, 120 ticks per quarter note.
+Track 1: length 196.
+Track 2: length 41.
+Track 3: length 1024.
+Track 4: length 948.
+Track 5: length 2853.
+Track 6: length 1040.
+Track 7: length 871.
+Track 8: length 1183.
+Track 9: length 1274.
+Track 10: length 1015.
+Track 11: length 2852.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 229.
+Track 2: length 2166.
+Track 3: length 1090.
+Track 4: length 4.
+Format 1 MIDI file.  15 tracks, 120 ticks per quarter note.
+Track 1: length 205.
+Track 2: length 31.
+Track 3: length 2046.
+Track 4: length 331.
+Track 5: length 3097.
+Track 6: length 2613.
+Track 7: length 2473.
+Track 8: length 2265.
+Track 9: length 3095.
+Track 10: length 2443.
+Track 11: length 2472.
+Track 12: length 2442.
+Track 13: length 2058.
+Track 14: length 3095.
+Track 15: length 5201.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 329.
+Track 2: length 2552.
+Track 3: length 1750.
+Track 4: length 4.
+Format 1 MIDI file.  11 tracks, 120 ticks per quarter note.
+Track 1: length 231.
+Track 2: length 31.
+Track 3: length 2221.
+Track 4: length 1998.
+Track 5: length 3478.
+Track 6: length 3226.
+Track 7: length 2698.
+Track 8: length 4356.
+Track 9: length 3053.
+Track 10: length 2935.
+Track 11: length 5119.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 155.
+Track 2: length 1561.
+Track 3: length 1379.
+Track 4: length 4.
+Format 1 MIDI file.  14 tracks, 1024 ticks per quarter note.
+Track 1: length 669.
+Track 2: length 6.
+Track 3: length 899.
+Track 4: length 900.
+Track 5: length 3032.
+Track 6: length 3063.
+Track 7: length 847.
+Track 8: length 4037.
+Track 9: length 1759.
+Track 10: length 3807.
+Track 11: length 4106.
+Track 12: length 3632.
+Track 13: length 4467.
+Track 14: length 5406.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 514.
+Track 2: length 3037.
+Track 3: length 1758.
+Track 4: length 4.
+Format 1 MIDI file.  17 tracks, 1024 ticks per quarter note.
+Track 1: length 221.
+Track 2: length 6.
+Track 3: length 6219.
+Track 4: length 2110.
+Track 5: length 9856.
+Track 6: length 5279.
+Track 7: length 5451.
+Track 8: length 5459.
+Track 9: length 4673.
+Track 10: length 5277.
+Track 11: length 2686.
+Track 12: length 2578.
+Track 13: length 2895.
+Track 14: length 2510.
+Track 15: length 3564.
+Track 16: length 5274.
+Track 17: length 8757.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 244.
+Track 2: length 1972.
+Track 3: length 645.
+Track 4: length 4.
+Format 1 MIDI file.  6 tracks, 120 ticks per quarter note.
+Track 1: length 409.
+Track 2: length 3602.
+Track 3: length 3514.
+Track 4: length 3563.
+Track 5: length 2599.
+Track 6: length 9712.
+Format 1 MIDI file.  17 tracks, 1024 ticks per quarter note.
+Track 1: length 2036.
+Track 2: length 6.
+Track 3: length 3577.
+Track 4: length 1308.
+Track 5: length 5594.
+Track 6: length 7244.
+Track 7: length 2937.
+Track 8: length 2649.
+Track 9: length 2661.
+Track 10: length 7236.
+Track 11: length 4806.
+Track 12: length 4495.
+Track 13: length 5044.
+Track 14: length 4725.
+Track 15: length 4229.
+Track 16: length 7233.
+Track 17: length 5053.
+Format 1 MIDI file.  16 tracks, 1024 ticks per quarter note.
+Track 1: length 282.
+Track 2: length 6248.
+Track 3: length 3795.
+Track 4: length 1924.
+Track 5: length 2028.
+Track 6: length 5028.
+Track 7: length 10364.
+Track 8: length 5009.
+Track 9: length 5026.
+Track 10: length 6450.
+Track 11: length 6205.
+Track 12: length 5768.
+Track 13: length 5520.
+Track 14: length 4665.
+Track 15: length 6172.
+Track 16: length 16099.
+Format 1 MIDI file.  20 tracks, 1024 ticks per quarter note.
+Track 1: length 276.
+Track 2: length 3872.
+Track 3: length 3069.
+Track 4: length 1258.
+Track 5: length 8882.
+Track 6: length 5087.
+Track 7: length 3889.
+Track 8: length 3448.
+Track 9: length 3127.
+Track 10: length 5085.
+Track 11: length 2721.
+Track 12: length 2518.
+Track 13: length 2212.
+Track 14: length 2453.
+Track 15: length 2535.
+Track 16: length 5085.
+Track 17: length 6816.
+Track 18: length 2243.
+Track 19: length 2317.
+Track 20: length 2307.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 1936.
+Track 2: length 5639.
+Track 3: length 2176.
+Track 4: length 3025.
+Track 5: length 7629.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 1935.
+Track 2: length 2869.
+Track 3: length 2498.
+Track 4: length 2142.
+Track 5: length 5435.
+Format 1 MIDI file.  20 tracks, 1024 ticks per quarter note.
+Track 1: length 573.
+Track 2: length 2366.
+Track 3: length 672.
+Track 4: length 317.
+Track 5: length 1870.
+Track 6: length 2366.
+Track 7: length 1812.
+Track 8: length 1909.
+Track 9: length 1905.
+Track 10: length 2364.
+Track 11: length 1871.
+Track 12: length 1849.
+Track 13: length 1879.
+Track 14: length 1940.
+Track 15: length 1934.
+Track 16: length 2360.
+Track 17: length 1811.
+Track 18: length 1810.
+Track 19: length 592.
+Track 20: length 345.
+Format 1 MIDI file.  4 tracks, 192 ticks per quarter note.
+Track 1: length 21.
+Track 2: length 5174.
+Track 3: length 380.
+Track 4: length 936.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 438.
+Track 3: length 513.
+Track 4: length 526.
+Track 5: length 583.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2641.
+Track 3: length 2920.
+Track 4: length 2643.
+Track 5: length 2929.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 503.
+Track 3: length 652.
+Track 4: length 670.
+Track 5: length 551.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 49.
+Track 2: length 1270.
+Track 3: length 126.
+Track 4: length 667.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 77.
+Track 2: length 407.
+Track 3: length 537.
+Track 4: length 827.
+Track 5: length 466.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 54.
+Track 2: length 419.
+Track 3: length 539.
+Track 4: length 376.
+Track 5: length 1849.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 91.
+Track 2: length 834.
+Track 3: length 883.
+Track 4: length 754.
+Track 5: length 868.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 349.
+Track 2: length 1642.
+Track 3: length 1612.
+Track 4: length 622.
+Track 5: length 619.
+Format 1 MIDI file.  7 tracks, 120 ticks per quarter note.
+Track 1: length 76.
+Track 2: length 939.
+Track 3: length 819.
+Track 4: length 821.
+Track 5: length 574.
+Track 6: length 413.
+Track 7: length 358.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 56.
+Track 2: length 1995.
+Track 3: length 1850.
+Track 4: length 452.
+Track 5: length 447.
+Format 1 MIDI file.  10 tracks, 120 ticks per quarter note.
+Track 1: length 58.
+Track 2: length 1103.
+Track 3: length 767.
+Track 4: length 317.
+Track 5: length 2559.
+Track 6: length 2221.
+Track 7: length 2079.
+Track 8: length 1102.
+Track 9: length 765.
+Track 10: length 2074.
+Format 1 MIDI file.  7 tracks, 120 ticks per quarter note.
+Track 1: length 80.
+Track 2: length 375.
+Track 3: length 751.
+Track 4: length 764.
+Track 5: length 811.
+Track 6: length 383.
+Track 7: length 378.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 652.
+Track 3: length 823.
+Track 4: length 859.
+Track 5: length 859.
+Track 6: length 878.
+Track 7: length 652.
+Track 8: length 1345.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 673.
+Track 3: length 3034.
+Track 4: length 3643.
+Track 5: length 3772.
+Track 6: length 9025.
+Track 7: length 51334.
+Track 8: length 11182.
+Track 9: length 14858.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 570.
+Track 3: length 561.
+Track 4: length 615.
+Track 5: length 642.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 354.
+Track 3: length 381.
+Track 4: length 417.
+Track 5: length 435.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 354.
+Track 3: length 372.
+Track 4: length 426.
+Track 5: length 435.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 651.
+Track 3: length 651.
+Track 4: length 732.
+Track 5: length 696.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 651.
+Track 3: length 651.
+Track 4: length 732.
+Track 5: length 696.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 381.
+Track 3: length 498.
+Track 4: length 498.
+Track 5: length 489.
+Format 1 MIDI file.  4 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 10533.
+Track 3: length 682.
+Track 4: length 3391.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 363.
+Track 3: length 390.
+Track 4: length 417.
+Track 5: length 390.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 750.
+Track 3: length 813.
+Track 4: length 840.
+Track 5: length 923.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 747.
+Track 3: length 736.
+Track 4: length 621.
+Track 5: length 683.
+Track 6: length 805.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 624.
+Track 3: length 732.
+Track 4: length 660.
+Track 5: length 705.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 416.
+Track 3: length 453.
+Track 4: length 498.
+Track 5: length 560.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 614.
+Track 3: length 821.
+Track 4: length 893.
+Track 5: length 884.
+Track 6: length 902.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 489.
+Track 3: length 534.
+Track 4: length 658.
+Track 5: length 543.
+Track 6: length 660.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 444.
+Track 3: length 507.
+Track 4: length 480.
+Track 5: length 507.
+Track 6: length 516.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 669.
+Track 3: length 696.
+Track 4: length 714.
+Track 5: length 786.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 597.
+Track 4: length 597.
+Track 5: length 660.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 912.
+Track 3: length 975.
+Track 4: length 957.
+Track 5: length 993.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 669.
+Track 3: length 768.
+Track 4: length 714.
+Track 5: length 759.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 669.
+Track 3: length 723.
+Track 4: length 696.
+Track 5: length 759.
+Format 1 MIDI file.  8 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 560.
+Track 3: length 650.
+Track 4: length 668.
+Track 5: length 722.
+Track 6: length 710.
+Track 7: length 1024.
+Track 8: length 425.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 560.
+Track 3: length 650.
+Track 4: length 668.
+Track 5: length 722.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 579.
+Track 4: length 723.
+Track 5: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 579.
+Track 4: length 723.
+Track 5: length 714.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 705.
+Track 4: length 732.
+Track 5: length 722.
+Track 6: length 1199.
+Track 7: length 1596.
+Track 8: length 2950.
+Track 9: length 4333.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 615.
+Track 3: length 579.
+Track 4: length 651.
+Track 5: length 714.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 686.
+Track 4: length 731.
+Track 5: length 605.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 686.
+Track 4: length 740.
+Track 5: length 605.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 623.
+Track 3: length 686.
+Track 4: length 749.
+Track 5: length 605.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 380.
+Track 3: length 443.
+Track 4: length 452.
+Track 5: length 506.
+Track 6: length 497.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 37.
+Track 2: length 1042.
+Track 3: length 542.
+Track 4: length 542.
+Track 5: length 551.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 534.
+Track 3: length 552.
+Track 4: length 651.
+Track 5: length 615.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 966.
+Track 3: length 1182.
+Track 4: length 1029.
+Track 5: length 1560.
+Track 6: length 1560.
+Track 7: length 248.
+Track 8: length 405.
+Track 9: length 483.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 966.
+Track 3: length 1182.
+Track 4: length 1029.
+Track 5: length 1560.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 596.
+Track 3: length 776.
+Track 4: length 812.
+Track 5: length 731.
+Track 6: length 722.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 596.
+Track 3: length 776.
+Track 4: length 812.
+Track 5: length 731.
+Track 6: length 722.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 597.
+Track 3: length 651.
+Track 4: length 795.
+Track 5: length 659.
+Track 6: length 597.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 578.
+Track 3: length 623.
+Track 4: length 704.
+Track 5: length 722.
+Format 1 MIDI file.  6 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 894.
+Track 3: length 903.
+Track 4: length 1056.
+Track 5: length 939.
+Track 6: length 948.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 741.
+Track 3: length 786.
+Track 4: length 858.
+Track 5: length 849.
+Format 1 MIDI file.  5 tracks, 1024 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 317.
+Track 3: length 371.
+Track 4: length 362.
+Track 5: length 389.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 123.
+Track 2: length 20009.
+Track 3: length 19620.
+Track 4: length 11683.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 144.
+Track 2: length 18353.
+Track 3: length 17932.
+Track 4: length 9967.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 140.
+Track 2: length 20505.
+Track 3: length 17656.
+Track 4: length 12891.
+Format 1 MIDI file.  4 tracks, 768 ticks per quarter note.
+Track 1: length 179.
+Track 2: length 14195.
+Track 3: length 14263.
+Track 4: length 8106.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 114.
+Track 2: length 21962.
+Track 3: length 21050.
+Track 4: length 11559.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 100.
+Track 2: length 20152.
+Track 3: length 20252.
+Track 4: length 12923.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 118.
+Track 2: length 15015.
+Track 3: length 6121.
+Track 4: length 2515.
+Format 1 MIDI file.  13 tracks, 120 ticks per quarter note.
+Track 1: length 2632.
+Track 2: length 9176.
+Track 3: length 7129.
+Track 4: length 8529.
+Track 5: length 6675.
+Track 6: length 2502.
+Track 7: length 2663.
+Track 8: length 2316.
+Track 9: length 3405.
+Track 10: length 454.
+Track 11: length 846.
+Track 12: length 4255.
+Track 13: length 483.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 6817.
+Track 3: length 3625.
+Track 4: length 1972.
+Format 1 MIDI file.  4 tracks, 768 ticks per quarter note.
+Track 1: length 130.
+Track 2: length 17046.
+Track 3: length 8213.
+Track 4: length 2208.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 87.
+Track 2: length 11410.
+Track 3: length 7036.
+Track 4: length 2755.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 95.
+Track 2: length 15321.
+Track 3: length 7806.
+Track 4: length 3423.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 102.
+Track 2: length 27416.
+Track 3: length 15159.
+Track 4: length 7244.
+Format 1 MIDI file.  6 tracks, 240 ticks per quarter note.
+Track 1: length 111.
+Track 2: length 10399.
+Track 3: length 6062.
+Track 4: length 2090.
+Track 5: length 401.
+Track 6: length 4.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 129.
+Track 2: length 25942.
+Track 3: length 20042.
+Track 4: length 9917.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 265.
+Track 2: length 12293.
+Track 3: length 8247.
+Track 4: length 4762.
+Track 5: length 51.
+Track 6: length 51.
+Track 7: length 42.
+Track 8: length 42.
+Track 9: length 57.
+Track 10: length 51.
+Track 11: length 46.
+Track 12: length 48.
+Track 13: length 51.
+Track 14: length 44.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 20763.
+Track 3: length 11962.
+Track 4: length 6415.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 183.
+Track 2: length 17367.
+Track 3: length 4902.
+Track 4: length 4308.
+Track 5: length 51.
+Track 6: length 51.
+Track 7: length 39.
+Track 8: length 42.
+Track 9: length 57.
+Track 10: length 51.
+Track 11: length 46.
+Track 12: length 48.
+Track 13: length 51.
+Track 14: length 44.
+Track 15: length 9.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 95.
+Track 2: length 19788.
+Track 3: length 13944.
+Track 4: length 5180.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 21001.
+Track 3: length 15180.
+Track 4: length 3684.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 18535.
+Track 3: length 11566.
+Track 4: length 3206.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 657.
+Track 2: length 6408.
+Track 3: length 4872.
+Track 4: length 1593.
+Track 5: length 51.
+Track 6: length 51.
+Track 7: length 42.
+Track 8: length 42.
+Track 9: length 57.
+Track 10: length 51.
+Track 11: length 46.
+Track 12: length 48.
+Track 13: length 51.
+Track 14: length 44.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 78.
+Track 2: length 16253.
+Track 3: length 8626.
+Track 4: length 5393.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 79.
+Track 2: length 9266.
+Track 3: length 5122.
+Track 4: length 1949.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 456.
+Track 2: length 21456.
+Track 3: length 15313.
+Track 4: length 3981.
+Track 5: length 52.
+Track 6: length 51.
+Track 7: length 45.
+Track 8: length 42.
+Track 9: length 57.
+Track 10: length 51.
+Track 11: length 46.
+Track 12: length 48.
+Track 13: length 51.
+Track 14: length 44.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 5999.
+Track 3: length 3414.
+Track 4: length 1372.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 63.
+Track 2: length 4562.
+Track 3: length 2759.
+Track 4: length 1323.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 5737.
+Track 3: length 3540.
+Track 4: length 1333.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 4324.
+Track 3: length 2565.
+Track 4: length 1143.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 63.
+Track 2: length 6491.
+Track 3: length 2888.
+Track 4: length 1039.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 54.
+Track 2: length 5096.
+Track 3: length 2376.
+Track 4: length 729.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 7618.
+Track 3: length 3136.
+Track 4: length 2527.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 120.
+Track 2: length 20850.
+Track 3: length 7186.
+Track 4: length 426.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 5727.
+Track 3: length 2615.
+Track 4: length 1644.
+Format 1 MIDI file.  2 tracks, 120 ticks per quarter note.
+Track 1: length 2278.
+Track 2: length 35061.
+Format 1 MIDI file.  12 tracks, 240 ticks per quarter note.
+Track 1: length 48.
+Track 2: length 5598.
+Track 3: length 5599.
+Track 4: length 3960.
+Track 5: length 5614.
+Track 6: length 382.
+Track 7: length 43.
+Track 8: length 40.
+Track 9: length 34.
+Track 10: length 50.
+Track 11: length 34.
+Track 12: length 46.
+Format 1 MIDI file.  5 tracks, 120 ticks per quarter note.
+Track 1: length 1033.
+Track 2: length 3323.
+Track 3: length 17547.
+Track 4: length 2032.
+Track 5: length 64.
+Format 1 MIDI file.  10 tracks, 240 ticks per quarter note.
+Track 1: length 535.
+Track 2: length 3216.
+Track 3: length 2857.
+Track 4: length 404.
+Track 5: length 1031.
+Track 6: length 413.
+Track 7: length 10989.
+Track 8: length 8233.
+Track 9: length 2376.
+Track 10: length 1517.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 112.
+Track 2: length 21391.
+Track 3: length 9581.
+Track 4: length 6162.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 109.
+Track 2: length 5378.
+Track 3: length 1445.
+Track 4: length 2770.
+Track 5: length 2001.
+Format 1 MIDI file.  8 tracks, 120 ticks per quarter note.
+Track 1: length 104.
+Track 2: length 2435.
+Track 3: length 1019.
+Track 4: length 877.
+Track 5: length 877.
+Track 6: length 2464.
+Track 7: length 1036.
+Track 8: length 880.
+Format 1 MIDI file.  7 tracks, 240 ticks per quarter note.
+Track 1: length 7396.
+Track 2: length 9541.
+Track 3: length 3919.
+Track 4: length 2458.
+Track 5: length 2450.
+Track 6: length 2476.
+Track 7: length 9.
+Format 1 MIDI file.  19 tracks, 480 ticks per quarter note.
+Track 1: length 251.
+Track 2: length 12853.
+Track 3: length 12916.
+Track 4: length 13094.
+Track 5: length 10554.
+Track 6: length 14094.
+Track 7: length 13264.
+Track 8: length 9446.
+Track 9: length 3566.
+Track 10: length 3452.
+Track 11: length 4701.
+Track 12: length 5268.
+Track 13: length 2237.
+Track 14: length 4102.
+Track 15: length 16280.
+Track 16: length 13015.
+Track 17: length 14113.
+Track 18: length 8567.
+Track 19: length 7985.
+Format 1 MIDI file.  8 tracks, 384 ticks per quarter note.
+Track 1: length 871.
+Track 2: length 14635.
+Track 3: length 26383.
+Track 4: length 7388.
+Track 5: length 35.
+Track 6: length 35.
+Track 7: length 26.
+Track 8: length 39.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 170.
+Track 2: length 23309.
+Track 3: length 16961.
+Track 4: length 152.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 87.
+Track 2: length 22940.
+Track 3: length 20293.
+Track 4: length 6992.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 145.
+Track 2: length 49200.
+Track 3: length 26950.
+Track 4: length 5885.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 44.
+Track 2: length 7018.
+Track 3: length 6375.
+Track 4: length 275.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 79.
+Track 2: length 1429.
+Track 3: length 1337.
+Track 4: length 1934.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 99.
+Track 2: length 2696.
+Track 3: length 1932.
+Track 4: length 2580.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 64.
+Track 2: length 2095.
+Track 3: length 1487.
+Track 4: length 1861.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 64.
+Track 2: length 1482.
+Track 3: length 1484.
+Track 4: length 1603.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 63.
+Track 2: length 2230.
+Track 3: length 1627.
+Track 4: length 1619.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 140.
+Track 2: length 1487.
+Track 3: length 1436.
+Track 4: length 1475.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 51.
+Track 2: length 2168.
+Track 3: length 1690.
+Track 4: length 2069.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 83.
+Track 2: length 1511.
+Track 3: length 1201.
+Track 4: length 2016.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 64.
+Track 2: length 1773.
+Track 3: length 1799.
+Track 4: length 1867.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 1797.
+Track 3: length 1659.
+Track 4: length 1653.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 72.
+Track 2: length 1809.
+Track 3: length 1235.
+Track 4: length 1389.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 91.
+Track 2: length 2299.
+Track 3: length 1642.
+Track 4: length 2361.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 57.
+Track 2: length 1875.
+Track 3: length 1691.
+Track 4: length 1766.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 1499.
+Track 3: length 1676.
+Track 4: length 2046.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 95.
+Track 2: length 1817.
+Track 3: length 838.
+Track 4: length 1636.
+Track 5: length 65.
+Track 6: length 51.
+Track 7: length 49.
+Track 8: length 51.
+Track 9: length 51.
+Track 10: length 48.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 42.
+Track 17: length 42.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 71.
+Track 2: length 2777.
+Track 3: length 2213.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 141.
+Track 2: length 6360.
+Track 3: length 4278.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 105.
+Track 2: length 2943.
+Track 3: length 2510.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 106.
+Track 2: length 3721.
+Track 3: length 2652.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 106.
+Track 2: length 3653.
+Track 3: length 2986.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 106.
+Track 2: length 3845.
+Track 3: length 3176.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 3758.
+Track 3: length 2323.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 121.
+Track 2: length 4285.
+Track 3: length 3186.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 147.
+Track 2: length 2624.
+Track 3: length 2929.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 143.
+Track 2: length 6283.
+Track 3: length 5663.
+Track 4: length 41.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 36.
+Track 2: length 22576.
+Track 3: length 15230.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 152.
+Track 2: length 6904.
+Track 3: length 5206.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 118.
+Track 2: length 6028.
+Track 3: length 5495.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
 Track 1: length 28.
-Track 2: length 14099.
+Track 2: length 3718.
+Track 3: length 2281.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 28.
+Track 2: length 4378.
+Track 3: length 3140.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 102.
+Track 2: length 5484.
+Track 3: length 3505.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 100.
+Track 2: length 3096.
+Track 3: length 3093.
+Track 4: length 36.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 29.
+Track 2: length 11852.
+Track 3: length 11112.
+Track 4: length 36.
+Format 1 MIDI file.  6 tracks, 192 ticks per quarter note.
+Track 1: length 5194.
+Track 2: length 29705.
+Track 3: length 3962.
+Track 4: length 1968.
+Track 5: length 20752.
+Track 6: length 4.
+Format 1 MIDI file.  5 tracks, 192 ticks per quarter note.
+Track 1: length 2260.
+Track 2: length 31743.
+Track 3: length 5815.
+Track 4: length 4524.
+Track 5: length 26190.
+Format 1 MIDI file.  6 tracks, 192 ticks per quarter note.
+Track 1: length 2589.
+Track 2: length 14694.
+Track 3: length 14792.
+Track 4: length 11214.
+Track 5: length 8390.
+Track 6: length 4.
+Format 1 MIDI file.  6 tracks, 384 ticks per quarter note.
+Track 1: length 485.
+Track 2: length 14156.
+Track 3: length 9962.
+Track 4: length 40.
+Track 5: length 54.
+Track 6: length 4.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 128.
+Track 2: length 25275.
+Track 3: length 28.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 93.
+Track 2: length 28230.
+Track 3: length 28.
+Format 1 MIDI file.  4 tracks, 384 ticks per quarter note.
+Track 1: length 119.
+Track 2: length 29405.
+Track 3: length 28.
+Track 4: length 9.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 120.
+Track 2: length 30002.
+Track 3: length 28.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 118.
+Track 2: length 18195.
+Track 3: length 28.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 142.
+Track 2: length 28116.
+Track 3: length 28.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 102.
+Track 2: length 22136.
+Track 3: length 28.
+Format 1 MIDI file.  3 tracks, 192 ticks per quarter note.
+Track 1: length 401.
+Track 2: length 2770.
+Track 3: length 1922.
+Format 1 MIDI file.  4 tracks, 192 ticks per quarter note.
+Track 1: length 569.
+Track 2: length 2712.
+Track 3: length 1805.
+Track 4: length 4.
+Format 1 MIDI file.  3 tracks, 192 ticks per quarter note.
+Track 1: length 402.
+Track 2: length 2894.
+Track 3: length 2445.
+Format 1 MIDI file.  4 tracks, 192 ticks per quarter note.
+Track 1: length 410.
+Track 2: length 2623.
+Track 3: length 917.
+Track 4: length 2422.
+Format 1 MIDI file.  3 tracks, 192 ticks per quarter note.
+Track 1: length 425.
+Track 2: length 2845.
+Track 3: length 3024.
+Format 1 MIDI file.  3 tracks, 192 ticks per quarter note.
+Track 1: length 543.
+Track 2: length 2908.
+Track 3: length 2574.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 21.
+Track 2: length 28452.
+Track 3: length 13.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 21.
+Track 2: length 15686.
+Track 3: length 13.
+Format 1 MIDI file.  3 tracks, 384 ticks per quarter note.
+Track 1: length 21.
+Track 2: length 26371.
+Track 3: length 13.
+Format 1 MIDI file.  10 tracks, 480 ticks per quarter note.
+Track 1: length 176.
+Track 2: length 5152.
+Track 3: length 5175.
+Track 4: length 5067.
+Track 5: length 3555.
+Track 6: length 3266.
+Track 7: length 8436.
+Track 8: length 47.
+Track 9: length 53.
+Track 10: length 9.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 155.
+Track 2: length 4594.
+Track 3: length 1733.
+Track 4: length 47.
+Track 5: length 41.
+Track 6: length 33.
+Track 7: length 51.
+Track 8: length 35.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 42.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 159.
+Track 2: length 4978.
+Track 3: length 5143.
+Track 4: length 3626.
+Track 5: length 224.
+Track 6: length 33.
+Track 7: length 51.
+Track 8: length 31.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 42.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 165.
+Track 2: length 2129.
+Track 3: length 1678.
+Track 4: length 522.
+Track 5: length 157.
+Track 6: length 1924.
+Track 7: length 51.
+Track 8: length 36.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 42.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 154.
+Track 2: length 4440.
+Track 3: length 2300.
+Track 4: length 47.
+Track 5: length 41.
+Track 6: length 33.
+Track 7: length 51.
+Track 8: length 32.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 42.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 154.
+Track 2: length 6560.
+Track 3: length 1914.
+Track 4: length 47.
+Track 5: length 41.
+Track 6: length 33.
+Track 7: length 51.
+Track 8: length 33.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 42.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 1169.
+Track 2: length 3345.
+Track 3: length 687.
+Track 4: length 205.
+Track 5: length 50.
+Track 6: length 23.
+Track 7: length 51.
+Track 8: length 49.
+Track 9: length 30.
+Track 10: length 37.
+Track 11: length 51.
+Track 12: length 45.
+Track 13: length 44.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 35.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 80.
+Track 2: length 6081.
+Track 3: length 2030.
+Track 4: length 2576.
+Track 5: length 351.
+Track 6: length 21.
+Track 7: length 51.
+Track 8: length 49.
+Track 9: length 30.
+Track 10: length 37.
+Track 11: length 51.
+Track 12: length 45.
+Track 13: length 44.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 35.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 55.
+Track 2: length 3218.
+Track 3: length 1342.
+Track 4: length 105.
+Track 5: length 50.
+Track 6: length 23.
+Track 7: length 51.
+Track 8: length 49.
+Track 9: length 30.
+Track 10: length 37.
+Track 11: length 51.
+Track 12: length 45.
+Track 13: length 44.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 35.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 55.
+Track 2: length 927.
+Track 3: length 1083.
+Track 4: length 926.
+Track 5: length 1098.
+Track 6: length 51.
+Track 7: length 47.
+Track 8: length 33.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 45.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 63.
+Track 2: length 4295.
+Track 3: length 9310.
+Track 4: length 4202.
+Track 5: length 4125.
+Track 6: length 51.
+Track 7: length 47.
+Track 8: length 32.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 45.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 108.
+Track 2: length 1338.
+Track 3: length 266.
+Track 4: length 1278.
+Track 5: length 233.
+Track 6: length 51.
+Track 7: length 47.
+Track 8: length 32.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 45.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 145.
+Track 2: length 14435.
+Track 3: length 51.
+Track 4: length 47.
+Track 5: length 53.
+Track 6: length 51.
+Track 7: length 47.
+Track 8: length 40.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 44.
+Track 17: length 45.
+Format 1 MIDI file.  8 tracks, 384 ticks per quarter note.
+Track 1: length 5966.
+Track 2: length 3407.
+Track 3: length 3787.
+Track 4: length 842.
+Track 5: length 2275.
+Track 6: length 67.
+Track 7: length 41.
+Track 8: length 37.
+Format 1 MIDI file.  8 tracks, 384 ticks per quarter note.
+Track 1: length 2989.
+Track 2: length 7441.
+Track 3: length 8666.
+Track 4: length 373.
+Track 5: length 6577.
+Track 6: length 67.
+Track 7: length 41.
+Track 8: length 37.
+Format 1 MIDI file.  8 tracks, 384 ticks per quarter note.
+Track 1: length 1912.
+Track 2: length 2988.
+Track 3: length 3439.
+Track 4: length 2127.
+Track 5: length 59.
+Track 6: length 56.
+Track 7: length 56.
+Track 8: length 52.
+Format 1 MIDI file.  8 tracks, 384 ticks per quarter note.
+Track 1: length 3987.
+Track 2: length 9484.
+Track 3: length 10138.
+Track 4: length 7206.
+Track 5: length 59.
+Track 6: length 56.
+Track 7: length 56.
+Track 8: length 52.
+Format 1 MIDI file.  13 tracks, 384 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 6819.
+Track 3: length 3820.
+Track 4: length 3873.
+Track 5: length 3146.
+Track 6: length 4143.
+Track 7: length 4145.
+Track 8: length 4149.
+Track 9: length 55.
+Track 10: length 47.
+Track 11: length 56.
+Track 12: length 47.
+Track 13: length 55.
+Format 1 MIDI file.  13 tracks, 384 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 3080.
+Track 3: length 1761.
+Track 4: length 1693.
+Track 5: length 2053.
+Track 6: length 1966.
+Track 7: length 1968.
+Track 8: length 1972.
+Track 9: length 55.
+Track 10: length 47.
+Track 11: length 56.
+Track 12: length 34.
+Track 13: length 55.
+Format 1 MIDI file.  13 tracks, 384 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 8606.
+Track 3: length 5050.
+Track 4: length 4631.
+Track 5: length 3697.
+Track 6: length 3898.
+Track 7: length 3900.
+Track 8: length 3904.
+Track 9: length 55.
+Track 10: length 47.
+Track 11: length 56.
+Track 12: length 40.
+Track 13: length 55.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 65793.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 16837.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 22782.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 33300.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 9246.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 46068.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 8234.
+Track 3: length 11146.
+Track 4: length 8094.
+Track 5: length 5799.
+Track 6: length 5400.
+Track 7: length 6277.
+Track 8: length 6261.
+Track 9: length 16048.
+Track 10: length 304.
+Track 11: length 368.
+Track 12: length 17455.
+Track 13: length 58.
+Format 1 MIDI file.  6 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 4512.
+Track 3: length 2208.
+Track 4: length 2399.
+Track 5: length 4184.
+Track 6: length 3580.
+Format 1 MIDI file.  12 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 4072.
+Track 3: length 4072.
+Track 4: length 4394.
+Track 5: length 4971.
+Track 6: length 4804.
+Track 7: length 3954.
+Track 8: length 3938.
+Track 9: length 14766.
+Track 10: length 295.
+Track 11: length 239.
+Track 12: length 13091.
+Format 1 MIDI file.  14 tracks, 96 ticks per quarter note.
+Track 1: length 66.
+Track 2: length 4379.
+Track 3: length 4136.
+Track 4: length 6534.
+Track 5: length 5961.
+Track 6: length 4632.
+Track 7: length 3296.
+Track 8: length 5336.
+Track 9: length 5105.
+Track 10: length 3262.
+Track 11: length 3494.
+Track 12: length 4026.
+Track 13: length 4031.
+Track 14: length 8439.
+Format 1 MIDI file.  14 tracks, 96 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 3853.
+Track 3: length 3476.
+Track 4: length 6529.
+Track 5: length 5302.
+Track 6: length 4389.
+Track 7: length 5463.
+Track 8: length 6266.
+Track 9: length 6122.
+Track 10: length 5097.
+Track 11: length 4035.
+Track 12: length 5509.
+Track 13: length 5333.
+Track 14: length 10930.
+Format 1 MIDI file.  12 tracks, 96 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2594.
+Track 3: length 960.
+Track 4: length 827.
+Track 5: length 1630.
+Track 6: length 2619.
+Track 7: length 1178.
+Track 8: length 841.
+Track 9: length 829.
+Track 10: length 1628.
+Track 11: length 1647.
+Track 12: length 1866.
+Format 1 MIDI file.  14 tracks, 96 ticks per quarter note.
+Track 1: length 68.
+Track 2: length 4633.
+Track 3: length 3451.
+Track 4: length 6395.
+Track 5: length 4280.
+Track 6: length 3623.
+Track 7: length 4727.
+Track 8: length 9119.
+Track 9: length 6911.
+Track 10: length 4443.
+Track 11: length 7873.
+Track 12: length 7878.
+Track 13: length 15845.
+Track 14: length 3861.
+Format 1 MIDI file.  16 tracks, 240 ticks per quarter note.
+Track 1: length 230.
+Track 2: length 35.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 5810.
+Track 7: length 8304.
+Track 8: length 7658.
+Track 9: length 9000.
+Track 10: length 5204.
+Track 11: length 4014.
+Track 12: length 4365.
+Track 13: length 6790.
+Track 14: length 5273.
+Track 15: length 8230.
+Track 16: length 31.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 1935.
+Track 3: length 2249.
+Track 4: length 2213.
+Track 5: length 2954.
+Format 1 MIDI file.  10 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 4108.
+Track 3: length 4349.
+Track 4: length 4815.
+Track 5: length 5160.
+Track 6: length 1111.
+Track 7: length 974.
+Track 8: length 1077.
+Track 9: length 2211.
+Track 10: length 5032.
+Format 1 MIDI file.  16 tracks, 480 ticks per quarter note.
+Track 1: length 408.
+Track 2: length 536.
+Track 3: length 16569.
+Track 4: length 9289.
+Track 5: length 7804.
+Track 6: length 13019.
+Track 7: length 6148.
+Track 8: length 6313.
+Track 9: length 12024.
+Track 10: length 688.
+Track 11: length 702.
+Track 12: length 9174.
+Track 13: length 16693.
+Track 14: length 4266.
+Track 15: length 5396.
+Track 16: length 8440.
+Format 1 MIDI file.  12 tracks, 480 ticks per quarter note.
+Track 1: length 87.
+Track 2: length 20004.
+Track 3: length 17487.
+Track 4: length 16357.
+Track 5: length 17726.
+Track 6: length 17219.
+Track 7: length 16338.
+Track 8: length 14707.
+Track 9: length 14689.
+Track 10: length 14701.
+Track 11: length 14735.
+Track 12: length 4.
+Format 1 MIDI file.  16 tracks, 480 ticks per quarter note.
+Track 1: length 938.
+Track 2: length 537.
+Track 3: length 20617.
+Track 4: length 7401.
+Track 5: length 5198.
+Track 6: length 14069.
+Track 7: length 6477.
+Track 8: length 4629.
+Track 9: length 12836.
+Track 10: length 116.
+Track 11: length 116.
+Track 12: length 11005.
+Track 13: length 17489.
+Track 14: length 6718.
+Track 15: length 7763.
+Track 16: length 10311.
+Format 1 MIDI file.  15 tracks, 120 ticks per quarter note.
+Track 1: length 864.
+Track 2: length 11335.
+Track 3: length 8732.
+Track 4: length 9082.
+Track 5: length 5126.
+Track 6: length 5056.
+Track 7: length 4182.
+Track 8: length 5700.
+Track 9: length 2989.
+Track 10: length 11846.
+Track 11: length 9.
+Track 12: length 24.
+Track 13: length 24.
+Track 14: length 24.
+Track 15: length 21.
+Format 1 MIDI file.  15 tracks, 120 ticks per quarter note.
+Track 1: length 1476.
+Track 2: length 1594.
+Track 3: length 3429.
+Track 4: length 2004.
+Track 5: length 1229.
+Track 6: length 1419.
+Track 7: length 861.
+Track 8: length 1115.
+Track 9: length 1119.
+Track 10: length 2170.
+Track 11: length 9.
+Track 12: length 24.
+Track 13: length 24.
+Track 14: length 24.
+Track 15: length 21.
+Format 1 MIDI file.  14 tracks, 120 ticks per quarter note.
+Track 1: length 895.
+Track 2: length 7983.
+Track 3: length 3484.
+Track 4: length 3435.
+Track 5: length 3281.
+Track 6: length 4651.
+Track 7: length 3815.
+Track 8: length 4057.
+Track 9: length 2861.
+Track 10: length 4196.
+Track 11: length 24.
+Track 12: length 24.
+Track 13: length 24.
+Track 14: length 21.
+Format 1 MIDI file.  9 tracks, 48 ticks per quarter note.
+Track 1: length 721.
+Track 2: length 32665.
+Track 3: length 24136.
+Track 4: length 14943.
+Track 5: length 17693.
+Track 6: length 10026.
+Track 7: length 7535.
+Track 8: length 7110.
+Track 9: length 4642.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 221.
+Track 2: length 14866.
+Track 3: length 13410.
+Track 4: length 9508.
+Track 5: length 8892.
+Track 6: length 9664.
+Track 7: length 7134.
+Track 8: length 7126.
+Track 9: length 44.
+Format 1 MIDI file.  7 tracks, 1024 ticks per quarter note.
+Track 1: length 379.
+Track 2: length 5765.
+Track 3: length 5693.
+Track 4: length 4603.
+Track 5: length 2619.
+Track 6: length 2298.
+Track 7: length 45.
+Format 1 MIDI file.  9 tracks, 1024 ticks per quarter note.
+Track 1: length 359.
+Track 2: length 12484.
+Track 3: length 12826.
+Track 4: length 4006.
+Track 5: length 4016.
+Track 6: length 10263.
+Track 7: length 3711.
+Track 8: length 3707.
+Track 9: length 45.
+Format 1 MIDI file.  19 tracks, 384 ticks per quarter note.
+Track 1: length 4603.
+Track 2: length 49.
+Track 3: length 50.
+Track 4: length 9631.
+Track 5: length 8075.
+Track 6: length 7613.
+Track 7: length 6932.
+Track 8: length 6939.
+Track 9: length 22653.
+Track 10: length 15432.
+Track 11: length 66.
+Track 12: length 40.
+Track 13: length 55.
+Track 14: length 73.
+Track 15: length 71.
+Track 16: length 63.
+Track 17: length 84.
+Track 18: length 60.
+Track 19: length 61.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 24247.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 83600.
+Format 1 MIDI file.  7 tracks, 120 ticks per quarter note.
+Track 1: length 1293.
+Track 2: length 15649.
+Track 3: length 14163.
+Track 4: length 13365.
+Track 5: length 14301.
+Track 6: length 64266.
+Track 7: length 4.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 70626.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 15436.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 67810.
+Format 1 MIDI file.  18 tracks, 240 ticks per quarter note.
+Track 1: length 71.
+Track 2: length 10261.
+Track 3: length 6259.
+Track 4: length 6510.
+Track 5: length 11470.
+Track 6: length 17225.
+Track 7: length 10021.
+Track 8: length 27.
+Track 9: length 28.
+Track 10: length 24.
+Track 11: length 32.
+Track 12: length 11.
+Track 13: length 29.
+Track 14: length 4.
+Track 15: length 15.
+Track 16: length 19.
+Track 17: length 24.
+Track 18: length 4.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 18931.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 25014.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 37944.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 13622.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 36505.
+Format 0 MIDI file.  1 tracks, 96 ticks per quarter note.
+Track 1: length 56349.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 19572.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 54171.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 39879.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 19790.
+Format 0 MIDI file.  1 tracks, 48 ticks per quarter note.
+Track 1: length 40882.
+Format 1 MIDI file.  21 tracks, 120 ticks per quarter note.
+Track 1: length 393.
+Track 2: length 7913.
+Track 3: length 6809.
+Track 4: length 6689.
+Track 5: length 8464.
+Track 6: length 18189.
+Track 7: length 12403.
+Track 8: length 15178.
+Track 9: length 13618.
+Track 10: length 1612.
+Track 11: length 1607.
+Track 12: length 1650.
+Track 13: length 1912.
+Track 14: length 1911.
+Track 15: length 21.
+Track 16: length 21.
+Track 17: length 41.
+Track 18: length 23.
+Track 19: length 25.
+Track 20: length 28.
+Track 21: length 34.
+Format 1 MIDI file.  10 tracks, 192 ticks per quarter note.
+Track 1: length 301.
+Track 2: length 5651.
+Track 3: length 4615.
+Track 4: length 3774.
+Track 5: length 3412.
+Track 6: length 22906.
+Track 7: length 17529.
+Track 8: length 20799.
+Track 9: length 17169.
+Track 10: length 4.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 159.
+Track 2: length 8236.
+Track 3: length 7481.
+Track 4: length 6592.
+Track 5: length 9659.
+Track 6: length 9628.
+Track 7: length 17795.
+Track 8: length 11317.
+Track 9: length 17300.
+Track 10: length 11483.
+Track 11: length 21.
+Track 12: length 21.
+Track 13: length 42.
+Track 14: length 23.
+Track 15: length 25.
+Track 16: length 28.
+Track 17: length 34.
+Format 1 MIDI file.  19 tracks, 120 ticks per quarter note.
+Track 1: length 111.
+Track 2: length 8593.
+Track 3: length 7138.
+Track 4: length 6271.
+Track 5: length 9900.
+Track 6: length 22380.
+Track 7: length 15052.
+Track 8: length 17117.
+Track 9: length 12029.
+Track 10: length 16246.
+Track 11: length 11165.
+Track 12: length 16.
+Track 13: length 16.
+Track 14: length 39.
+Track 15: length 18.
+Track 16: length 20.
+Track 17: length 23.
+Track 18: length 29.
+Track 19: length 4.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 10614.
+Track 3: length 8549.
+Track 4: length 10352.
+Track 5: length 8914.
+Track 6: length 9446.
+Track 7: length 8572.
+Track 8: length 4579.
+Track 9: length 3978.
+Track 10: length 3683.
+Track 11: length 6659.
+Track 12: length 6641.
+Track 13: length 4.
+Format 1 MIDI file.  12 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 2991.
+Track 3: length 2616.
+Track 4: length 2987.
+Track 5: length 2542.
+Track 6: length 5446.
+Track 7: length 3603.
+Track 8: length 1865.
+Track 9: length 1892.
+Track 10: length 1752.
+Track 11: length 2538.
+Track 12: length 2529.
+Format 1 MIDI file.  12 tracks, 240 ticks per quarter note.
+Track 1: length 41.
+Track 2: length 7712.
+Track 3: length 6993.
+Track 4: length 8654.
+Track 5: length 7140.
+Track 6: length 6924.
+Track 7: length 5983.
+Track 8: length 4993.
+Track 9: length 4758.
+Track 10: length 3670.
+Track 11: length 6739.
+Track 12: length 6730.
+Format 1 MIDI file.  14 tracks, 192 ticks per quarter note.
+Track 1: length 659.
+Track 2: length 16854.
+Track 3: length 8979.
+Track 4: length 13056.
+Track 5: length 8284.
+Track 6: length 11951.
+Track 7: length 7674.
+Track 8: length 10777.
+Track 9: length 7495.
+Track 10: length 4902.
+Track 11: length 4939.
+Track 12: length 4598.
+Track 13: length 4430.
+Track 14: length 4.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 216.
+Track 2: length 36.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 15021.
+Track 7: length 14512.
+Track 8: length 12378.
+Track 9: length 16079.
+Track 10: length 11679.
+Track 11: length 9544.
+Track 12: length 8797.
+Track 13: length 35726.
+Track 14: length 95.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 275.
+Track 2: length 36.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 3573.
+Track 7: length 3574.
+Track 8: length 2584.
+Track 9: length 3575.
+Track 10: length 2352.
+Track 11: length 2540.
+Track 12: length 2582.
+Track 13: length 9669.
+Track 14: length 96.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 611.
+Track 2: length 44.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 6567.
+Track 7: length 6516.
+Track 8: length 4046.
+Track 9: length 5268.
+Track 10: length 3193.
+Track 11: length 3189.
+Track 12: length 4044.
+Track 13: length 14935.
+Track 14: length 104.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 263.
+Track 2: length 35.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1724.
+Track 7: length 1725.
+Track 8: length 1154.
+Track 9: length 1726.
+Track 10: length 3141.
+Track 11: length 3167.
+Track 12: length 1152.
+Track 13: length 4135.
+Track 14: length 95.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 516.
+Track 2: length 34.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 3239.
+Track 7: length 3240.
+Track 8: length 2304.
+Track 9: length 5299.
+Track 10: length 3164.
+Track 11: length 2716.
+Track 12: length 3096.
+Track 13: length 11763.
+Track 14: length 94.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 539.
+Track 2: length 44.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 4756.
+Track 7: length 4629.
+Track 8: length 3965.
+Track 9: length 3190.
+Track 10: length 2773.
+Track 11: length 2605.
+Track 12: length 2801.
+Track 13: length 10368.
+Track 14: length 104.
+Format 1 MIDI file.  14 tracks, 240 ticks per quarter note.
+Track 1: length 527.
+Track 2: length 46.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 5059.
+Track 7: length 5060.
+Track 8: length 3417.
+Track 9: length 4613.
+Track 10: length 3778.
+Track 11: length 3762.
+Track 12: length 3415.
+Track 13: length 12626.
+Track 14: length 106.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 163.
+Track 2: length 2247.
+Track 3: length 1835.
+Track 4: length 1667.
+Track 5: length 1801.
+Track 6: length 3678.
+Track 7: length 3523.
+Track 8: length 2761.
+Track 9: length 2247.
+Track 10: length 1836.
+Track 11: length 1668.
+Track 12: length 1802.
+Track 13: length 2917.
+Track 14: length 2862.
+Track 15: length 2312.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 59.
+Track 2: length 2531.
+Track 3: length 1833.
+Track 4: length 1951.
+Track 5: length 2071.
+Track 6: length 2545.
+Track 7: length 2531.
+Track 8: length 2069.
+Track 9: length 1455.
+Track 10: length 1050.
+Track 11: length 1087.
+Track 12: length 1262.
+Track 13: length 1460.
+Track 14: length 1457.
+Track 15: length 1257.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 59.
+Track 2: length 1516.
+Track 3: length 2826.
+Track 4: length 2857.
+Track 5: length 930.
+Track 6: length 1516.
+Track 7: length 1515.
+Track 8: length 928.
+Track 9: length 742.
+Track 10: length 1349.
+Track 11: length 1365.
+Track 12: length 569.
+Track 13: length 742.
+Track 14: length 741.
+Track 15: length 570.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 117.
+Track 2: length 3769.
+Track 3: length 2504.
+Track 4: length 2474.
+Track 5: length 2946.
+Track 6: length 4248.
+Track 7: length 4187.
+Track 8: length 2961.
+Track 9: length 2272.
+Track 10: length 1621.
+Track 11: length 1632.
+Track 12: length 2241.
+Track 13: length 3427.
+Track 14: length 3275.
+Track 15: length 2246.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 119.
+Track 2: length 3494.
+Track 3: length 2546.
+Track 4: length 2263.
+Track 5: length 2472.
+Track 6: length 2123.
+Track 7: length 2118.
+Track 8: length 1476.
+Track 9: length 2116.
+Track 10: length 1475.
+Track 11: length 1190.
+Track 12: length 1460.
+Track 13: length 2123.
+Track 14: length 2118.
+Track 15: length 1476.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 256.
+Track 2: length 9566.
+Track 3: length 7798.
+Track 4: length 6346.
+Track 5: length 5791.
+Track 6: length 10119.
+Track 7: length 9880.
+Track 8: length 7916.
+Track 9: length 9609.
+Track 10: length 7736.
+Track 11: length 6345.
+Track 12: length 5876.
+Track 13: length 10130.
+Track 14: length 9877.
+Track 15: length 8001.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 153.
+Track 2: length 1705.
+Track 3: length 1389.
+Track 4: length 1275.
+Track 5: length 1264.
+Track 6: length 1867.
+Track 7: length 1887.
+Track 8: length 1278.
+Track 9: length 4372.
+Track 10: length 3400.
+Track 11: length 3474.
+Track 12: length 3038.
+Track 13: length 4612.
+Track 14: length 4599.
+Track 15: length 3048.
+Format 1 MIDI file.  12 tracks, 240 ticks per quarter note.
+Track 1: length 256.
+Track 2: length 36.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 18660.
+Track 7: length 16593.
+Track 8: length 11499.
+Track 9: length 11343.
+Track 10: length 11660.
+Track 11: length 45023.
+Track 12: length 96.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 283.
+Track 2: length 35.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1931.
+Track 7: length 1819.
+Track 8: length 1888.
+Track 9: length 1593.
+Track 10: length 1185.
+Track 11: length 4947.
+Track 12: length 9.
+Track 13: length 95.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 283.
+Track 2: length 37.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 3082.
+Track 7: length 2667.
+Track 8: length 1342.
+Track 9: length 1812.
+Track 10: length 1774.
+Track 11: length 6733.
+Track 12: length 9.
+Track 13: length 97.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 535.
+Track 2: length 44.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 4540.
+Track 7: length 3657.
+Track 8: length 2773.
+Track 9: length 3029.
+Track 10: length 3024.
+Track 11: length 11345.
+Track 12: length 9.
+Track 13: length 104.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 471.
+Track 2: length 48.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 4315.
+Track 7: length 2093.
+Track 8: length 1826.
+Track 9: length 1630.
+Track 10: length 2630.
+Track 11: length 10733.
+Track 12: length 9.
+Track 13: length 108.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 274.
+Track 2: length 34.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1388.
+Track 7: length 1311.
+Track 8: length 888.
+Track 9: length 820.
+Track 10: length 1248.
+Track 11: length 4785.
+Track 12: length 9.
+Track 13: length 94.
+Format 1 MIDI file.  13 tracks, 240 ticks per quarter note.
+Track 1: length 281.
+Track 2: length 37.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 3024.
+Track 7: length 1935.
+Track 8: length 1628.
+Track 9: length 1518.
+Track 10: length 2268.
+Track 11: length 9391.
+Track 12: length 9.
+Track 13: length 98.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 1282.
+Track 3: length 1070.
+Track 4: length 999.
+Track 5: length 1512.
+Track 6: length 2004.
+Track 7: length 1283.
+Track 8: length 1070.
+Track 9: length 999.
+Track 10: length 1512.
+Track 11: length 2004.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 132.
+Track 2: length 1585.
+Track 3: length 1177.
+Track 4: length 1156.
+Track 5: length 1269.
+Track 6: length 1845.
+Track 7: length 3377.
+Track 8: length 2466.
+Track 9: length 2744.
+Track 10: length 2529.
+Track 11: length 3896.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 68.
+Track 2: length 1216.
+Track 3: length 853.
+Track 4: length 724.
+Track 5: length 1066.
+Track 6: length 1194.
+Track 7: length 573.
+Track 8: length 372.
+Track 9: length 342.
+Track 10: length 558.
+Track 11: length 569.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 315.
+Track 2: length 11361.
+Track 3: length 8141.
+Track 4: length 7986.
+Track 5: length 7435.
+Track 6: length 12606.
+Track 7: length 8223.
+Track 8: length 5875.
+Track 9: length 5652.
+Track 10: length 6966.
+Track 11: length 10751.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 148.
+Track 2: length 1651.
+Track 3: length 1251.
+Track 4: length 1185.
+Track 5: length 2706.
+Track 6: length 3523.
+Track 7: length 1651.
+Track 8: length 1251.
+Track 9: length 1185.
+Track 10: length 1121.
+Track 11: length 2577.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 44.
+Track 2: length 1647.
+Track 3: length 1663.
+Track 4: length 1280.
+Track 5: length 1020.
+Track 6: length 1782.
+Track 7: length 768.
+Track 8: length 853.
+Track 9: length 815.
+Track 10: length 513.
+Track 11: length 767.
+Format 1 MIDI file.  10 tracks, 240 ticks per quarter note.
+Track 1: length 187.
+Track 2: length 1342.
+Track 3: length 902.
+Track 4: length 943.
+Track 5: length 1057.
+Track 6: length 1346.
+Track 7: length 981.
+Track 8: length 1020.
+Track 9: length 1216.
+Track 10: length 1478.
+Format 1 MIDI file.  17 tracks, 240 ticks per quarter note.
+Track 1: length 288.
+Track 2: length 36.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 4442.
+Track 7: length 3713.
+Track 8: length 2832.
+Track 9: length 9841.
+Track 10: length 12808.
+Track 11: length 11513.
+Track 12: length 18779.
+Track 13: length 11442.
+Track 14: length 10762.
+Track 15: length 10249.
+Track 16: length 10256.
+Track 17: length 96.
+Format 1 MIDI file.  11 tracks, 240 ticks per quarter note.
+Track 1: length 239.
+Track 2: length 31.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1861.
+Track 7: length 1356.
+Track 8: length 1358.
+Track 9: length 1733.
+Track 10: length 1740.
+Track 11: length 91.
+Format 1 MIDI file.  17 tracks, 240 ticks per quarter note.
+Track 1: length 920.
+Track 2: length 44.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 2217.
+Track 7: length 1336.
+Track 8: length 1277.
+Track 9: length 706.
+Track 10: length 6227.
+Track 11: length 5578.
+Track 12: length 6345.
+Track 13: length 4676.
+Track 14: length 4604.
+Track 15: length 4028.
+Track 16: length 4035.
+Track 17: length 104.
+Format 1 MIDI file.  17 tracks, 240 ticks per quarter note.
+Track 1: length 450.
+Track 2: length 35.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 875.
+Track 7: length 758.
+Track 8: length 739.
+Track 9: length 818.
+Track 10: length 2117.
+Track 11: length 2118.
+Track 12: length 2119.
+Track 13: length 1840.
+Track 14: length 1552.
+Track 15: length 1690.
+Track 16: length 1697.
+Track 17: length 95.
+Format 1 MIDI file.  17 tracks, 240 ticks per quarter note.
+Track 1: length 365.
+Track 2: length 33.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1549.
+Track 7: length 1360.
+Track 8: length 883.
+Track 9: length 1638.
+Track 10: length 4295.
+Track 11: length 4344.
+Track 12: length 4261.
+Track 13: length 2862.
+Track 14: length 3080.
+Track 15: length 3896.
+Track 16: length 3903.
+Track 17: length 93.
+Format 1 MIDI file.  9 tracks, 240 ticks per quarter note.
+Track 1: length 498.
+Track 2: length 1889.
+Track 3: length 1083.
+Track 4: length 1083.
+Track 5: length 1544.
+Track 6: length 892.
+Track 7: length 651.
+Track 8: length 706.
+Track 9: length 766.
+Format 1 MIDI file.  21 tracks, 240 ticks per quarter note.
+Track 1: length 66.
+Track 2: length 767.
+Track 3: length 658.
+Track 4: length 641.
+Track 5: length 712.
+Track 6: length 1730.
+Track 7: length 1728.
+Track 8: length 1731.
+Track 9: length 1475.
+Track 10: length 1215.
+Track 11: length 1322.
+Track 12: length 361.
+Track 13: length 300.
+Track 14: length 292.
+Track 15: length 322.
+Track 16: length 1051.
+Track 17: length 1047.
+Track 18: length 1051.
+Track 19: length 886.
+Track 20: length 748.
+Track 21: length 854.
+Format 1 MIDI file.  21 tracks, 240 ticks per quarter note.
+Track 1: length 139.
+Track 2: length 1205.
+Track 3: length 996.
+Track 4: length 850.
+Track 5: length 459.
+Track 6: length 3397.
+Track 7: length 3133.
+Track 8: length 3402.
+Track 9: length 2847.
+Track 10: length 2799.
+Track 11: length 2130.
+Track 12: length 1883.
+Track 13: length 741.
+Track 14: length 769.
+Track 15: length 420.
+Track 16: length 4436.
+Track 17: length 3873.
+Track 18: length 4643.
+Track 19: length 3406.
+Track 20: length 3252.
+Track 21: length 3017.
+Format 1 MIDI file.  21 tracks, 240 ticks per quarter note.
+Track 1: length 52.
+Track 2: length 1020.
+Track 3: length 844.
+Track 4: length 570.
+Track 5: length 875.
+Track 6: length 2837.
+Track 7: length 2834.
+Track 8: length 2839.
+Track 9: length 1875.
+Track 10: length 2021.
+Track 11: length 2547.
+Track 12: length 1029.
+Track 13: length 865.
+Track 14: length 569.
+Track 15: length 876.
+Track 16: length 2934.
+Track 17: length 2933.
+Track 18: length 2926.
+Track 19: length 1876.
+Track 20: length 2022.
+Track 21: length 2548.
+Format 1 MIDI file.  21 tracks, 240 ticks per quarter note.
+Track 1: length 362.
+Track 2: length 2943.
+Track 3: length 2446.
+Track 4: length 1897.
+Track 5: length 4620.
+Track 6: length 8763.
+Track 7: length 7890.
+Track 8: length 12807.
+Track 9: length 8350.
+Track 10: length 7660.
+Track 11: length 7389.
+Track 12: length 3070.
+Track 13: length 2464.
+Track 14: length 1855.
+Track 15: length 4175.
+Track 16: length 7683.
+Track 17: length 6805.
+Track 18: length 11693.
+Track 19: length 7055.
+Track 20: length 6560.
+Track 21: length 6226.
+Format 1 MIDI file.  19 tracks, 240 ticks per quarter note.
+Track 1: length 519.
+Track 2: length 36.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 2887.
+Track 7: length 2564.
+Track 8: length 1839.
+Track 9: length 1685.
+Track 10: length 13861.
+Track 11: length 13171.
+Track 12: length 11057.
+Track 13: length 11200.
+Track 14: length 14307.
+Track 15: length 13131.
+Track 16: length 10928.
+Track 17: length 11264.
+Track 18: length 11271.
+Track 19: length 96.
+Format 1 MIDI file.  19 tracks, 240 ticks per quarter note.
+Track 1: length 1015.
+Track 2: length 44.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 471.
+Track 7: length 388.
+Track 8: length 357.
+Track 9: length 427.
+Track 10: length 3655.
+Track 11: length 3018.
+Track 12: length 2751.
+Track 13: length 5150.
+Track 14: length 3675.
+Track 15: length 3284.
+Track 16: length 3076.
+Track 17: length 3842.
+Track 18: length 3849.
+Track 19: length 104.
+Format 1 MIDI file.  19 tracks, 240 ticks per quarter note.
+Track 1: length 388.
+Track 2: length 35.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 721.
+Track 7: length 626.
+Track 8: length 583.
+Track 9: length 777.
+Track 10: length 1513.
+Track 11: length 1630.
+Track 12: length 1595.
+Track 13: length 2026.
+Track 14: length 1591.
+Track 15: length 1658.
+Track 16: length 1394.
+Track 17: length 1882.
+Track 18: length 1889.
+Track 19: length 95.
+Format 1 MIDI file.  15 tracks, 240 ticks per quarter note.
+Track 1: length 713.
+Track 2: length 43.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 4795.
+Track 7: length 2440.
+Track 8: length 2777.
+Track 9: length 3320.
+Track 10: length 6183.
+Track 11: length 3310.
+Track 12: length 3466.
+Track 13: length 4560.
+Track 14: length 4431.
+Track 15: length 103.
+Format 1 MIDI file.  19 tracks, 240 ticks per quarter note.
+Track 1: length 358.
+Track 2: length 40.
+Track 3: length 49.
+Track 4: length 31.
+Track 5: length 9.
+Track 6: length 1296.
+Track 7: length 1083.
+Track 8: length 816.
+Track 9: length 670.
+Track 10: length 4717.
+Track 11: length 3444.
+Track 12: length 2939.
+Track 13: length 3190.
+Track 14: length 4707.
+Track 15: length 3434.
+Track 16: length 2928.
+Track 17: length 3216.
+Track 18: length 3223.
+Track 19: length 100.
+Format 1 MIDI file.  25 tracks, 240 ticks per quarter note.
+Track 1: length 125.
+Track 2: length 331.
+Track 3: length 215.
+Track 4: length 211.
+Track 5: length 295.
+Track 6: length 2107.
+Track 7: length 1740.
+Track 8: length 1486.
+Track 9: length 2503.
+Track 10: length 1265.
+Track 11: length 1263.
+Track 12: length 1262.
+Track 13: length 1695.
+Track 14: length 272.
+Track 15: length 270.
+Track 16: length 232.
+Track 17: length 224.
+Track 18: length 2626.
+Track 19: length 2311.
+Track 20: length 2098.
+Track 21: length 4087.
+Track 22: length 3546.
+Track 23: length 3014.
+Track 24: length 2707.
+Track 25: length 3095.
+Format 1 MIDI file.  25 tracks, 240 ticks per quarter note.
+Track 1: length 44.
+Track 2: length 377.
+Track 3: length 377.
+Track 4: length 347.
+Track 5: length 256.
+Track 6: length 668.
+Track 7: length 690.
+Track 8: length 606.
+Track 9: length 1036.
+Track 10: length 759.
+Track 11: length 730.
+Track 12: length 488.
+Track 13: length 924.
+Track 14: length 562.
+Track 15: length 420.
+Track 16: length 389.
+Track 17: length 483.
+Track 18: length 1299.
+Track 19: length 1461.
+Track 20: length 1450.
+Track 21: length 1622.
+Track 22: length 1384.
+Track 23: length 1464.
+Track 24: length 1278.
+Track 25: length 1542.
+Format 1 MIDI file.  17 tracks, 240 ticks per quarter note.
+Track 1: length 105.
+Track 2: length 1926.
+Track 3: length 814.
+Track 4: length 740.
+Track 5: length 999.
+Track 6: length 2551.
+Track 7: length 1147.
+Track 8: length 1111.
+Track 9: length 1509.
+Track 10: length 3860.
+Track 11: length 2320.
+Track 12: length 2850.
+Track 13: length 3341.
+Track 14: length 4927.
+Track 15: length 3180.
+Track 16: length 3335.
+Track 17: length 4387.
+Format 1 MIDI file.  27 tracks, 240 ticks per quarter note.
+Track 1: length 313.
+Track 2: length 1917.
+Track 3: length 1747.
+Track 4: length 1174.
+Track 5: length 1047.
+Track 6: length 8927.
+Track 7: length 8245.
+Track 8: length 7054.
+Track 9: length 7265.
+Track 10: length 9179.
+Track 11: length 8348.
+Track 12: length 7210.
+Track 13: length 6921.
+Track 14: length 318.
+Track 15: length 1941.
+Track 16: length 1787.
+Track 17: length 1172.
+Track 18: length 1040.
+Track 19: length 9056.
+Track 20: length 8292.
+Track 21: length 7092.
+Track 22: length 7278.
+Track 23: length 9314.
+Track 24: length 8435.
+Track 25: length 7180.
+Track 26: length 6928.
+Track 27: length 307.
+Format 1 MIDI file.  25 tracks, 240 ticks per quarter note.
+Track 1: length 52.
+Track 2: length 270.
+Track 3: length 215.
+Track 4: length 191.
+Track 5: length 196.
+Track 6: length 3294.
+Track 7: length 2351.
+Track 8: length 1899.
+Track 9: length 2139.
+Track 10: length 3073.
+Track 11: length 2101.
+Track 12: length 1776.
+Track 13: length 2120.
+Track 14: length 1807.
+Track 15: length 1352.
+Track 16: length 874.
+Track 17: length 659.
+Track 18: length 3134.
+Track 19: length 2436.
+Track 20: length 1984.
+Track 21: length 2095.
+Track 22: length 3439.
+Track 23: length 2738.
+Track 24: length 2216.
+Track 25: length 2092.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 1246.
+Track 2: length 4546.
+Track 3: length 4573.
+Track 4: length 2772.
+Track 5: length 1578.
+Track 6: length 528.
+Track 7: length 197.
+Track 8: length 46.
+Track 9: length 44.
+Track 10: length 52.
+Track 11: length 55.
+Track 12: length 29.
+Track 13: length 43.
+Track 14: length 49.
+Track 15: length 51.
+Track 16: length 38.
+Track 17: length 38.
+Track 18: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 1012.
+Track 2: length 2155.
+Track 3: length 2040.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 531.
+Track 2: length 3310.
+Track 3: length 2770.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 346.
+Track 2: length 3237.
+Track 3: length 2583.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 67.
+Track 2: length 3012.
+Track 3: length 2848.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 556.
+Track 2: length 2723.
+Track 3: length 2627.
+Track 4: length 4.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 4883.
+Track 3: length 3909.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2630.
+Track 3: length 2465.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 798.
+Track 2: length 2352.
+Track 3: length 2529.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 786.
+Track 2: length 3031.
+Track 3: length 3005.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 492.
+Track 2: length 2715.
+Track 3: length 2087.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 651.
+Track 2: length 2808.
+Track 3: length 2660.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 667.
+Track 2: length 2974.
+Track 3: length 2137.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 688.
+Track 2: length 2831.
+Track 3: length 2589.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 373.
+Track 2: length 2494.
+Track 3: length 2405.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 120 ticks per quarter note.
+Track 1: length 681.
+Track 2: length 2303.
+Track 3: length 1959.
+Track 4: length 4.
+Format 1 MIDI file.  3 tracks, 192 ticks per quarter note.
+Track 1: length 181.
+Track 2: length 4124.
+Track 3: length 3975.
+Format 1 MIDI file.  3 tracks, 96 ticks per quarter note.
+Track 1: length 57.
+Track 2: length 4324.
+Track 3: length 4363.
+Format 1 MIDI file.  3 tracks, 96 ticks per quarter note.
+Track 1: length 80.
+Track 2: length 4422.
+Track 3: length 4279.
+Format 1 MIDI file.  3 tracks, 96 ticks per quarter note.
+Track 1: length 27.
+Track 2: length 4639.
+Track 3: length 4800.
+Format 1 MIDI file.  3 tracks, 96 ticks per quarter note.
+Track 1: length 58.
+Track 2: length 2880.
+Track 3: length 3199.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 105.
+Track 2: length 2178.
+Track 3: length 2238.
+Track 4: length 1992.
+Track 5: length 2238.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 3146.
+Track 3: length 3208.
+Track 4: length 2462.
+Track 5: length 3446.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 2584.
+Track 3: length 2343.
+Track 4: length 2413.
+Track 5: length 2647.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 59.
+Track 2: length 3309.
+Track 3: length 3209.
+Track 4: length 2356.
+Track 5: length 2186.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 59.
+Track 2: length 3121.
+Track 3: length 2918.
+Track 4: length 2980.
+Track 5: length 2500.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2036.
+Track 3: length 1771.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2505.
+Track 3: length 2212.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2590.
+Track 3: length 2389.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 3341.
+Track 3: length 3327.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2433.
+Track 3: length 2124.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2414.
+Track 3: length 2431.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2365.
+Track 3: length 1877.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2916.
+Track 3: length 2647.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2239.
+Track 3: length 2005.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2281.
+Track 3: length 2096.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 3148.
+Track 3: length 3281.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2373.
+Track 3: length 2420.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 19.
+Track 2: length 2276.
+Track 3: length 2456.
+Format 1 MIDI file.  12 tracks, 480 ticks per quarter note.
+Track 1: length 103.
+Track 2: length 5175.
+Track 3: length 5183.
+Track 4: length 3183.
+Track 5: length 1956.
+Track 6: length 955.
+Track 7: length 703.
+Track 8: length 730.
+Track 9: length 793.
+Track 10: length 1910.
+Track 11: length 1910.
+Track 12: length 1910.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 68.
+Track 2: length 3335.
+Track 3: length 3437.
+Track 4: length 3391.
+Track 5: length 3588.
+Format 1 MIDI file.  4 tracks, 96 ticks per quarter note.
+Track 1: length 196.
+Track 2: length 5182.
+Track 3: length 4845.
+Track 4: length 4650.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 58.
+Track 2: length 7835.
+Track 3: length 7285.
+Track 4: length 6415.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 5593.
+Track 3: length 5355.
+Track 4: length 9989.
+Track 5: length 5381.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 96.
+Track 2: length 1256.
+Track 3: length 1256.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 59.
+Track 2: length 3010.
+Track 3: length 2965.
+Track 4: length 3944.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 79.
+Track 2: length 1400.
+Track 3: length 1523.
+Track 4: length 4.
+Format 1 MIDI file.  3 tracks, 480 ticks per quarter note.
+Track 1: length 43.
+Track 2: length 2499.
+Track 3: length 1971.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 79.
+Track 2: length 1401.
+Track 3: length 1772.
+Track 4: length 4.
+Format 1 MIDI file.  3 tracks, 480 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 1808.
+Track 3: length 1598.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 46.
+Track 2: length 4379.
+Track 3: length 3742.
+Track 4: length 4065.
+Track 5: length 3287.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 108.
+Track 2: length 2082.
+Track 3: length 2410.
+Track 4: length 2557.
+Track 5: length 4.
+Format 1 MIDI file.  8 tracks, 240 ticks per quarter note.
+Track 1: length 93.
+Track 2: length 2842.
+Track 3: length 3677.
+Track 4: length 3343.
+Track 5: length 2903.
+Track 6: length 3072.
+Track 7: length 2358.
+Track 8: length 4.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 52.
+Track 2: length 1494.
+Track 3: length 1011.
+Track 4: length 1426.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 61.
+Track 2: length 1944.
+Track 3: length 1944.
+Track 4: length 713.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 111.
+Track 2: length 578.
+Track 3: length 1120.
+Track 4: length 1079.
+Track 5: length 4.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 1476.
+Track 3: length 2362.
+Track 4: length 2783.
+Format 1 MIDI file.  4 tracks, 480 ticks per quarter note.
+Track 1: length 51.
+Track 2: length 1593.
+Track 3: length 4083.
+Track 4: length 4221.
+Format 1 MIDI file.  6 tracks, 480 ticks per quarter note.
+Track 1: length 107.
+Track 2: length 5230.
+Track 3: length 4863.
+Track 4: length 4618.
+Track 5: length 4104.
+Track 6: length 4.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 12047.
+Track 3: length 12213.
+Track 4: length 15499.
+Track 5: length 9335.
+Format 1 MIDI file.  5 tracks, 480 ticks per quarter note.
+Track 1: length 47.
+Track 2: length 2305.
+Track 3: length 2318.
+Track 4: length 3856.
+Track 5: length 1864.
+Format 1 MIDI file.  20 tracks, 480 ticks per quarter note.
+Track 1: length 838.
+Track 2: length 2482.
+Track 3: length 2500.
+Track 4: length 3964.
+Track 5: length 3949.
+Track 6: length 2337.
+Track 7: length 3616.
+Track 8: length 3587.
+Track 9: length 4632.
+Track 10: length 6880.
+Track 11: length 3243.
+Track 12: length 1805.
+Track 13: length 5233.
+Track 14: length 13275.
+Track 15: length 13275.
+Track 16: length 2504.
+Track 17: length 2108.
+Track 18: length 3221.
+Track 19: length 1767.
+Track 20: length 22.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 87.
+Track 2: length 1460.
+Track 3: length 2271.
+Track 4: length 1744.
+Track 5: length 1774.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 67.
+Track 2: length 3021.
+Track 3: length 3389.
+Track 4: length 3260.
+Track 5: length 2833.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 82.
+Track 2: length 1752.
+Track 3: length 1786.
+Track 4: length 1467.
+Track 5: length 1386.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 73.
+Track 2: length 1749.
+Track 3: length 1968.
+Track 4: length 1882.
+Track 5: length 1820.
+Format 1 MIDI file.  17 tracks, 120 ticks per quarter note.
+Track 1: length 6876.
+Track 2: length 105320.
+Track 3: length 94758.
+Track 4: length 134.
+Track 5: length 33.
+Track 6: length 53.
+Track 7: length 90.
+Track 8: length 13.
+Track 9: length 13.
+Track 10: length 13.
+Track 11: length 13.
+Track 12: length 13.
+Track 13: length 13.
+Track 14: length 13.
+Track 15: length 13.
+Track 16: length 13.
+Track 17: length 13.
+Format 1 MIDI file.  4 tracks, 96 ticks per quarter note.
+Track 1: length 210.
+Track 2: length 6512.
+Track 3: length 6344.
+Track 4: length 5841.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 241.
+Track 2: length 5381.
+Track 3: length 5420.
+Track 4: length 4353.
+Track 5: length 4150.
+Format 1 MIDI file.  5 tracks, 96 ticks per quarter note.
+Track 1: length 104.
+Track 2: length 4259.
+Track 3: length 4954.
+Track 4: length 4426.
+Track 5: length 4248.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 253.
+Track 2: length 3854.
+Track 3: length 1233.
+Track 4: length 815.
+Track 5: length 978.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 12.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 39.
+Track 17: length 38.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 3738.
+Track 3: length 3335.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 28.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 40.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 99.
+Track 2: length 1508.
+Track 3: length 1696.
+Track 4: length 2171.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 28.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 2162.
+Track 3: length 1943.
+Track 4: length 3685.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 47.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 107.
+Track 2: length 1018.
+Track 3: length 859.
+Track 4: length 879.
+Track 5: length 936.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 28.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 3602.
+Track 3: length 3295.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 37.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 108.
+Track 2: length 1266.
+Track 3: length 1203.
+Track 4: length 1911.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 48.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 2698.
+Track 3: length 2573.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 56.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 4270.
+Track 3: length 3777.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 28.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 71.
+Track 2: length 1634.
+Track 3: length 1395.
+Track 4: length 2071.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 46.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 1252.
+Track 3: length 1127.
+Track 4: length 1077.
+Track 5: length 2096.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 38.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 4248.
+Track 3: length 4119.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 2758.
+Track 3: length 2717.
+Track 4: length 2831.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 38.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 7006.
+Track 3: length 1627.
+Track 4: length 2041.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 40.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 4363.
+Track 3: length 4380.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 40.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 2097.
+Track 3: length 2045.
+Track 4: length 2615.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 58.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 2154.
+Track 2: length 4421.
+Track 3: length 1434.
+Track 4: length 629.
+Track 5: length 3689.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 39.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 38.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 4385.
+Track 3: length 4366.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 1094.
+Track 3: length 1105.
+Track 4: length 2307.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 47.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 1472.
+Track 3: length 1249.
+Track 4: length 1779.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 3885.
+Track 3: length 4012.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 2024.
+Track 3: length 2106.
+Track 4: length 2067.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 39.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 1432.
+Track 3: length 1511.
+Track 4: length 987.
+Track 5: length 934.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 40.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 844.
+Track 3: length 3873.
+Track 4: length 3912.
+Track 5: length 877.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 96.
+Track 2: length 3243.
+Track 3: length 3146.
+Track 4: length 2800.
+Track 5: length 46.
+Track 6: length 67.
+Track 7: length 51.
+Track 8: length 52.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 43.
+Track 17: length 42.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 110.
+Track 2: length 5069.
+Track 3: length 2366.
+Track 4: length 2196.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 38.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 4211.
+Track 3: length 2622.
+Track 4: length 4193.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 3344.
+Track 3: length 3427.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 46.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 65.
+Track 2: length 2671.
+Track 3: length 4434.
+Track 4: length 3718.
+Track 5: length 1599.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 29.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  18 tracks, 480 ticks per quarter note.
+Track 1: length 74.
+Track 2: length 4916.
+Track 3: length 4131.
+Track 4: length 42.
+Track 5: length 41.
+Track 6: length 62.
+Track 7: length 46.
+Track 8: length 38.
+Track 9: length 46.
+Track 10: length 44.
+Track 11: length 52.
+Track 12: length 55.
+Track 13: length 29.
+Track 14: length 43.
+Track 15: length 46.
+Track 16: length 38.
+Track 17: length 37.
+Track 18: length 4.
+Format 1 MIDI file.  17 tracks, 480 ticks per quarter note.
+Track 1: length 88.
+Track 2: length 1715.
+Track 3: length 1416.
+Track 4: length 1618.
+Track 5: length 1051.
+Track 6: length 67.
+Track 7: length 51.
+Track 8: length 44.
+Track 9: length 51.
+Track 10: length 49.
+Track 11: length 57.
+Track 12: length 60.
+Track 13: length 34.
+Track 14: length 48.
+Track 15: length 51.
+Track 16: length 43.
+Track 17: length 42.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 2524.
+Track 3: length 892.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 77.
+Track 2: length 1443.
+Track 3: length 1245.
+Track 4: length 1104.
+Track 5: length 909.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 266.
+Track 2: length 3690.
+Track 3: length 2931.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 62.
+Track 2: length 1636.
+Track 3: length 1564.
+Track 4: length 1449.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 88.
+Track 2: length 2598.
+Track 3: length 2364.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 88.
+Track 2: length 3714.
+Track 3: length 2084.
+Track 4: length 3075.
+Format 1 MIDI file.  6 tracks, 240 ticks per quarter note.
+Track 1: length 78.
+Track 2: length 1831.
+Track 3: length 771.
+Track 4: length 766.
+Track 5: length 1228.
+Track 6: length 4.
+Format 1 MIDI file.  6 tracks, 240 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 1936.
+Track 3: length 1828.
+Track 4: length 1622.
+Track 5: length 1721.
+Track 6: length 1640.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 190.
+Track 2: length 3344.
+Track 3: length 1012.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 106.
+Track 2: length 1819.
+Track 3: length 935.
+Track 4: length 747.
+Track 5: length 1779.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 91.
+Track 2: length 3541.
+Track 3: length 1214.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 2111.
+Track 3: length 1591.
+Track 4: length 1826.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 191.
+Track 2: length 4761.
+Track 3: length 3983.
+Track 4: length 36.
+Track 5: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 77.
+Track 2: length 2265.
+Track 3: length 1813.
+Track 4: length 1821.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 76.
+Track 2: length 3185.
+Track 3: length 1568.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 96.
+Track 2: length 2807.
+Track 3: length 2986.
+Track 4: length 3014.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 112.
+Track 2: length 1390.
+Track 3: length 596.
+Track 4: length 788.
+Track 5: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 63.
+Track 2: length 1711.
+Track 3: length 1485.
+Track 4: length 1344.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 81.
+Track 2: length 2944.
+Track 3: length 2533.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 91.
+Track 2: length 1805.
+Track 3: length 1484.
+Track 4: length 1172.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 91.
+Track 2: length 1426.
+Track 3: length 742.
+Track 4: length 781.
+Track 5: length 541.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 120.
+Track 2: length 1942.
+Track 3: length 2020.
+Track 4: length 2741.
+Track 5: length 1798.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 102.
+Track 2: length 2008.
+Track 3: length 1117.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 83.
+Track 2: length 1856.
+Track 3: length 1538.
+Track 4: length 2206.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 97.
+Track 2: length 2054.
+Track 3: length 1698.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 93.
+Track 2: length 1063.
+Track 3: length 1551.
+Track 4: length 1219.
+Track 5: length 1456.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 2059.
+Track 3: length 1733.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 78.
+Track 2: length 4833.
+Track 3: length 2796.
+Track 4: length 3386.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 97.
+Track 2: length 2596.
+Track 3: length 1752.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 69.
+Track 2: length 1341.
+Track 3: length 1277.
+Track 4: length 701.
+Track 5: length 1374.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 96.
+Track 2: length 2260.
+Track 3: length 1909.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 77.
+Track 2: length 1306.
+Track 3: length 1172.
+Track 4: length 1480.
+Track 5: length 1559.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 132.
+Track 2: length 1908.
+Track 3: length 1490.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 1131.
+Track 3: length 1422.
+Track 4: length 1376.
+Track 5: length 1084.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 81.
+Track 2: length 1951.
+Track 3: length 1762.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 86.
+Track 2: length 2372.
+Track 3: length 2085.
+Track 4: length 2902.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 255.
+Track 2: length 2527.
+Track 3: length 1349.
+Track 4: length 4.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 69.
+Track 2: length 2257.
+Track 3: length 1808.
+Track 4: length 1715.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 97.
+Track 2: length 2661.
+Track 3: length 2036.
+Track 4: length 4.
+Format 1 MIDI file.  6 tracks, 240 ticks per quarter note.
+Track 1: length 82.
+Track 2: length 1035.
+Track 3: length 1420.
+Track 4: length 610.
+Track 5: length 1100.
+Track 6: length 1071.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 82.
+Track 2: length 1492.
+Track 3: length 1085.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 77.
+Track 2: length 1365.
+Track 3: length 1483.
+Track 4: length 1340.
+Track 5: length 1221.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 105.
+Track 2: length 4722.
+Track 3: length 4474.
+Track 4: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 70.
+Track 2: length 3248.
+Track 3: length 3695.
+Track 4: length 2276.
+Track 5: length 2086.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 90.
+Track 2: length 2081.
+Track 3: length 1610.
+Track 4: length 43.
+Track 5: length 4.
+Format 1 MIDI file.  5 tracks, 240 ticks per quarter note.
+Track 1: length 175.
+Track 2: length 4118.
+Track 3: length 4267.
+Track 4: length 3270.
+Track 5: length 3193.
+Format 1 MIDI file.  4 tracks, 240 ticks per quarter note.
+Track 1: length 171.
+Track 2: length 3159.
+Track 3: length 604.
+Track 4: length 3776.
+Format 1 MIDI file.  3 tracks, 240 ticks per quarter note.
+Track 1: length 76.
+Track 2: length 2548.
+Track 3: length 2368.
